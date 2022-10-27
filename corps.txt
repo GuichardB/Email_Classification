@@ -1,54 +1,34 @@
- 	 	 <https://d1a3f4spazzrp4.cloudfront.net/receipt_v3/receipt_uber_logo.png> 	Frais d'annulation 15,00 €
-17 octobre 2022
- 	
- 	
- 	 	À bientôt, Oscar	
-Voici la facture de votre course annulée.	
- <https://d1a3f4spazzrp4.cloudfront.net/receipt_v3/receipt_18_rider_default.png> 	
- 	
- 	
-Total	15,00 €	
-	Pour compenser le désagrément causé aux chauffeurs, des frais vous sont facturés si vous annulez une course 2 minutes après qu'un chauffeur l'a acceptée. Si vous devez annuler une course, faites-le avant expiration du délai afin d'éviter de payer des frais.	
- 	
-Frais d'annulation	15,00 €	
- 	
-Sous-total	15,00 €	
- 	
-Paiements	 	
- <https://tb-static.uber.com/prod/wallet/icons/mastercard_3x.png> 	
-Revolut Oscar ••••9968	
-17/10/2022 4:23	
-15,00 €	
-Un prélèvement temporaire de 21,00 € a été effectué sur votre moyen de paiement (•••• 9968). Ce montant ne vous a pas été réellement facturé, et ce prélèvement temporaire va être annulé. Il devrait bientôt disparaître de votre relevé bancaire. En savoir plus <https://email.uber.com/ls/click?upn=5TQkI4cGxaIGltwScN15UjLJqi79aYPwlG9ebBhI-2BjzQRKXk-2BkHC8JHXsmguglHRmkzqEQBpgKmsFOo24-2BWx5RYrz6jjPTLwjpvvckelD1q0-2F2t13PPAIieAQo5oNfk5LDvgl5pjzXj2mbzyFvSoemTIukS1M6dVMvi2V9EfBKFibKBzFWS6mY-2Fju5mJwLBEj2eF_clBvvyqJRFWsO9kvUbMGH-2B5G1jdnuYmzJCGRlcPRAAMORay2g-2FBZeb07cfZDHSgxf0jixB3L-2F2cNQH75tfgn3vhHzgQ2XDUDlCjelNSbXCi4hDQkPm8mNablwhTjvv52Imn3y7-2FlvkzQq5QRs9wQR0-2Bx60heyG4IVrgOv67-2B2fB8iK0BQvHSc4wP4zjjnChT2ozyRdkIcBPqXagoC5G8jLjJPYo9r-2F2DKz2DUHyCmzszpHzxGxLIsVj-2B4m-2Bv-2Ff90JTa935qOX6AfWvwUnChVjRLdxEUvSfIcPG7inxNC0RGhuXBh9vGAPUUz8tL9o4GbEMdWbhWNkAlW1lo-2BkkUj43C3hceXHqQxpAa3Q5fVc5dzpOZQL7JeKgqgOMTAetgrkxmm3RwSEeAk0veYzTid4EkO5DKTgtnOSQnDUnlERvOztPtK6RBO03-2B1R1IlV9cSn7XepXKEuAdUs2QkyTxLwgoh3SGHMLBHa-2BgFqKSPsbQHvQ4ZfCchqDJWikyEd-2FzeWBA6BxaIfqgI4NgWr6BauDubIQQbL322s1ZCwejbSxUIZc8oZcyZ-2BMzzSw-2Bbyv4oh0uVL4fuyr1TYTyNpXjRXGTCnkKkWzLCOjAZR6suTJ56O3y1LC35uUIpIADuufjFeSZu4sgTsw-2F0V-2FD2am87lA-3D-3D> 	
-Pour consulter vos reçus (et vos factures le cas échéant), ou pour obtenir plus d'informations, <https://email.uber.com/ls/click?upn=spA0-2FY-2B4siX2BcQou8-2F48-2FCuAvuoJdGqwWnZ4u-2BoGRvPlMgSN7h7-2BwCbF6t0fYIFNDXeawBl1dHTBSKdtaJIZagHGgcqCH2LulanLtU-2Fi7Y-3DYi8-_clBvvyqJRFWsO9kvUbMGH-2B5G1jdnuYmzJCGRlcPRAAMORay2g-2FBZeb07cfZDHSgxf0jixB3L-2F2cNQH75tfgn3vhHzgQ2XDUDlCjelNSbXCi4hDQkPm8mNablwhTjvv52Imn3y7-2FlvkzQq5QRs9wQR0-2Bx60heyG4IVrgOv67-2B2fB8iK0BQvHSc4wP4zjjnChT2ozyRdkIcBPqXagoC5G8jLjJPYo9r-2F2DKz2DUHyCmzszpHzxGxLIsVj-2B4m-2Bv-2Ff90JTa935qOX6AfWvwUnChVjRLdxEUvSfIcPG7inxNC0RGhuXBh9vGAPUUz8tL9o4GbEMdWbhWNkAlW1lo-2BkkUj43C3hceXHqQxpAa3Q5fVc5dzpOZQL7JeKgqgOMTAetgrkxmm3RwSEeAk0veYzTid4EkO5DKTgtnOSQnDUnlERvOztPtK6RBO03-2B1R1IlV9cSn7XepXKEuAdUs2QkyTxLwhM09eygbqt7fdxx9JMJrTN6d0ITKF8Jr5dYsFdFCDeIrDVaveAmN8Bnd12ozhhwuOruYlSa3-2B-2B4QsyCRdZNT2w7UVj5T4-2FvTZeNEUQ7YG2bSnIwpsutXucmri-2Fhx9gn6DRbLEhE7a8ByiGgfnq2d6j6582UCP8-2FV6vQH3od-2BeoSlezsupZI06atxGZGTtmF9w-3D-3D>  rendez-vous sur votre espace personnel.	
-Changer de moyen de paiement <https://email.uber.com/ls/click?upn=5TQkI4cGxaIGltwScN15Uj4777ZWsNFApy0bvuGXr3RqY1-2FH0DM55oaGCf5rE-2FkAsTJH8Tacrrrg4FKiyDRp1nbdJ-2BAjegqqsYIS9Bu3K-2Fg-3Dso39_clBvvyqJRFWsO9kvUbMGH-2B5G1jdnuYmzJCGRlcPRAAMORay2g-2FBZeb07cfZDHSgxf0jixB3L-2F2cNQH75tfgn3vhHzgQ2XDUDlCjelNSbXCi4hDQkPm8mNablwhTjvv52Imn3y7-2FlvkzQq5QRs9wQR0-2Bx60heyG4IVrgOv67-2B2fB8iK0BQvHSc4wP4zjjnChT2ozyRdkIcBPqXagoC5G8jLjJPYo9r-2F2DKz2DUHyCmzszpHzxGxLIsVj-2B4m-2Bv-2Ff90JTa935qOX6AfWvwUnChVjRLdxEUvSfIcPG7inxNC0RGhuXBh9vGAPUUz8tL9o4GbEMdWbhWNkAlW1lo-2BkkUj43C3hceXHqQxpAa3Q5fVc5dzpOZQL7JeKgqgOMTAetgrkxmm3RwSEeAk0veYzTid4EkO5DKTgtnOSQnDUnlERvOztPtK6RBO03-2B1R1IlV9cSn7XepXKEuAdUs2QkyTxLwsMqR2opmH57iVT-2Bi-2BIhQMS4ianJj5cV8pusarhcqDcM4cM-2Fqgbe6q-2BQLDOPWODFOH3ykn70bFZZnvN8w6Y06MZEv0KKx7DKcc1S94EMv8AQoQ7xlfMT2hL8q28z1tQAp9aB5yCH7-2FSICG8lX5XgZlqDkvcr8UrW9-2F6lTOFJ99mvLCau5gW9hAse34-2B8ryZFNQ-3D-3D> 	
-Téléchargez le PDF <https://email.uber.com/ls/click?upn=spA0-2FY-2B4siX2BcQou8-2F48-2FCuAvuoJdGqwWnZ4u-2BoGRvPlMgSN7h7-2BwCbF6t0fYIFNDXeawBl1dHTBSKdtaJIZYaIaIIKf3zKVCK8ZmBwH5SxbmHuUwEgLFR245m6Pg4b4KjfUOEoC7ABToS-2Bjjs3Ww-3D-3DpFHJ_clBvvyqJRFWsO9kvUbMGH-2B5G1jdnuYmzJCGRlcPRAAMORay2g-2FBZeb07cfZDHSgxf0jixB3L-2F2cNQH75tfgn3vhHzgQ2XDUDlCjelNSbXCi4hDQkPm8mNablwhTjvv52Imn3y7-2FlvkzQq5QRs9wQR0-2Bx60heyG4IVrgOv67-2B2fB8iK0BQvHSc4wP4zjjnChT2ozyRdkIcBPqXagoC5G8jLjJPYo9r-2F2DKz2DUHyCmzszpHzxGxLIsVj-2B4m-2Bv-2Ff90JTa935qOX6AfWvwUnChVjRLdxEUvSfIcPG7inxNC0RGhuXBh9vGAPUUz8tL9o4GbEMdWbhWNkAlW1lo-2BkkUj43C3hceXHqQxpAa3Q5fVc5dzpOZQL7JeKgqgOMTAetgrkxmm3RwSEeAk0veYzTid4EkO5DKTgtnOSQnDUnlERvOztPtK6RBO03-2B1R1IlV9cSn7XepXKEuAdUs2QkyTxLwuUnk76J28J-2BeiFndEEd5gZqomyoOEtwac80THkxKI-2FfaIgTT9I8qDPlw0JxCUUypgu-2BR1V08IeLqq338N6vJMBnL-2F7xdM61H5tsRjtEtTrnoN17DBB1DO848vidiJXWnTsR7DGwOOkWDoemd-2Bb5sR4SVHH7bhsA2AiWgPfQ1wyBAsb4q-2F9P8t0JjI3rrCqdzw-3D-3D> 	
- <https://d1a3f4spazzrp4.cloudfront.net/receipt_v3/aenor_100.png> 	
-Notre protocole de sécurité a reçu la certification AENOR.	
- 	
-UberX
-Course annulée |	
- <https://d1a3f4spazzrp4.cloudfront.net/emails/2017/01/receipt/receipt_18_square_top_fill_left.png> 	 <https://d1a3f4spazzrp4.cloudfront.net/emails/2017/01/receipt/receipt_18_square_top_fill_middle.png> 	 <https://d1a3f4spazzrp4.cloudfront.net/emails/2017/01/receipt/receipt_18_square_top_fill_right.png> 	4:20	
-Commande acceptée	
- <https://d1a3f4spazzrp4.cloudfront.net/emails/2017/01/receipt/receipt_18_square_top_fill_left.png> 	 <https://d1a3f4spazzrp4.cloudfront.net/emails/2017/01/receipt_18_square_btm_fill_middle.png> 	 <https://d1a3f4spazzrp4.cloudfront.net/emails/2017/01/receipt/receipt_18_square_top_fill_right.png> 	4:23	
-Commande annulée	
- <https://static-maps.uber.com/raster/image?mapid=dba4087a-f655-3d46-8a93-4d9b69db12e1&expiration=1729045426715&signature=Cb3kPv9QfX2btkkjZRVg2NVPWbA=> 
- <https://static-maps.uber.com/raster/image?mapid=1e2e023a-123c-3eb9-b006-ffeeffbdb1b3&expiration=1729045426704&signature=WZbwdy3xHle94dPEIKKU8lLOtTk=> 
-Signaler la perte d'un objet ❯ <https://email.uber.com/ls/click?upn=5TQkI4cGxaIGltwScN15Uvsoaok85PvqCQ3QlNb6arQAsUWbSTnikFU6vUxSTt8vgm7RDagOhr04y1Xv44afdKpcqaLlJ3iJEcDlphulsDM-3DXwTM_clBvvyqJRFWsO9kvUbMGH-2B5G1jdnuYmzJCGRlcPRAAMORay2g-2FBZeb07cfZDHSgxf0jixB3L-2F2cNQH75tfgn3vhHzgQ2XDUDlCjelNSbXCi4hDQkPm8mNablwhTjvv52Imn3y7-2FlvkzQq5QRs9wQR0-2Bx60heyG4IVrgOv67-2B2fB8iK0BQvHSc4wP4zjjnChT2ozyRdkIcBPqXagoC5G8jLjJPYo9r-2F2DKz2DUHyCmzszpHzxGxLIsVj-2B4m-2Bv-2Ff90JTa935qOX6AfWvwUnChVjRLdxEUvSfIcPG7inxNC0RGhuXBh9vGAPUUz8tL9o4GbEMdWbhWNkAlW1lo-2BkkUj43C3hceXHqQxpAa3Q5fVc5dzpOZQL7JeKgqgOMTAetgrkxmm3RwSEeAk0veYzTid4EkO5DKTgtnOSQnDUnlERvOztPtK6RBO03-2B1R1IlV9cSn7XepXKEuAdUs2QkyTxLwrd2KDoJvYk3SvuJYfh0EyrwvLWn3TheGd3nfeyRMaCzjEzWBXmASgpnr-2BD8yPbwfyflTdHOEbF-2BxAKzCsgL3iJCaRH30kP8zf5qFedg1H5j3KeFa5sx0f5-2BDLdUuHjPjXlb3ruPaPcwMc-2BLa2EiPznUvwQsHJPYgt5c35RRnIbFHbRbK5lmw1GRdQgur-2BbgVA-3D-3D> 	 	
-Contacter l'assistance❯ <https://email.uber.com/ls/click?upn=5TQkI4cGxaIGltwScN15UjnU1u7fTMJxOJIS1zPN1gI-3DlYMD_clBvvyqJRFWsO9kvUbMGH-2B5G1jdnuYmzJCGRlcPRAAMORay2g-2FBZeb07cfZDHSgxf0jixB3L-2F2cNQH75tfgn3vhHzgQ2XDUDlCjelNSbXCi4hDQkPm8mNablwhTjvv52Imn3y7-2FlvkzQq5QRs9wQR0-2Bx60heyG4IVrgOv67-2B2fB8iK0BQvHSc4wP4zjjnChT2ozyRdkIcBPqXagoC5G8jLjJPYo9r-2F2DKz2DUHyCmzszpHzxGxLIsVj-2B4m-2Bv-2Ff90JTa935qOX6AfWvwUnChVjRLdxEUvSfIcPG7inxNC0RGhuXBh9vGAPUUz8tL9o4GbEMdWbhWNkAlW1lo-2BkkUj43C3hceXHqQxpAa3Q5fVc5dzpOZQL7JeKgqgOMTAetgrkxmm3RwSEeAk0veYzTid4EkO5DKTgtnOSQnDUnlERvOztPtK6RBO03-2B1R1IlV9cSn7XepXKEuAdUs2QkyTxLwk2bfFdfrRvu4l5QSWY2bEJo9qUQKr4PQTK8CWY3W8sEM2EKacFORi71ybTMDAgbn4ThEK-2FApklHchTwZTU3JRxOb8IqmJ0Lg3LkiBnuvrFM1r0L0NJFP8yytACLKv3Qh7e9zpn3Z88zl0rQn6C6ET9T-2BD9NlLHMYlWCxAZ80UgC-2BaY-2B-2F8GAUQf0KNMxxkjROQ-3D-3D> 
-Contacter l'assistance ❯ <https://email.uber.com/ls/click?upn=F0pXumfOS4MEaguoriMkMI4KWhkCtt-2Br91wl3zOGbT5T7I5uVwV8wcbpBhIDvrgMyX_I_clBvvyqJRFWsO9kvUbMGH-2B5G1jdnuYmzJCGRlcPRAAMORay2g-2FBZeb07cfZDHSgxf0jixB3L-2F2cNQH75tfgn3vhHzgQ2XDUDlCjelNSbXCi4hDQkPm8mNablwhTjvv52Imn3y7-2FlvkzQq5QRs9wQR0-2Bx60heyG4IVrgOv67-2B2fB8iK0BQvHSc4wP4zjjnChT2ozyRdkIcBPqXagoC5G8jLjJPYo9r-2F2DKz2DUHyCmzszpHzxGxLIsVj-2B4m-2Bv-2Ff90JTa935qOX6AfWvwUnChVjRLdxEUvSfIcPG7inxNC0RGhuXBh9vGAPUUz8tL9o4GbEMdWbhWNkAlW1lo-2BkkUj43C3hceXHqQxpAa3Q5fVc5dzpOZQL7JeKgqgOMTAetgrkxmm3RwSEeAk0veYzTid4EkO5DKTgtnOSQnDUnlERvOztPtK6RBO03-2B1R1IlV9cSn7XepXKEuAdUs2QkyTxLwiJd9G-2BN6HClYyx5qvfYLdgvIJA6GvJs1PEXsZ-2BU-2Bw2Jk737TEx8jVolaY1rRW08C9lvVdX5-2FRth7KTbT6cyh8gI77nEBiNR9f-2Fyghh-2FARY-2FpLctZmy4FUIEQ0itaJJl6Ld0ttOUqZVGIiXeRWRSzK42dAinP-2Ft-2BVIXzZc-2B0eNIrwgT8Xb1lVoWwG7izTMNm4g-3D-3D> 
- 	
-Mes courses ❯ <https://email.uber.com/ls/click?upn=spA0-2FY-2B4siX2BcQou8-2F48-2FCuAvuoJdGqwWnZ4u-2BoGRshoZOO-2FR78Vytc-2FQoAWi93GkwR_clBvvyqJRFWsO9kvUbMGH-2B5G1jdnuYmzJCGRlcPRAAMORay2g-2FBZeb07cfZDHSgxf0jixB3L-2F2cNQH75tfgn3vhHzgQ2XDUDlCjelNSbXCi4hDQkPm8mNablwhTjvv52Imn3y7-2FlvkzQq5QRs9wQR0-2Bx60heyG4IVrgOv67-2B2fB8iK0BQvHSc4wP4zjjnChT2ozyRdkIcBPqXagoC5G8jLjJPYo9r-2F2DKz2DUHyCmzszpHzxGxLIsVj-2B4m-2Bv-2Ff90JTa935qOX6AfWvwUnChVjRLdxEUvSfIcPG7inxNC0RGhuXBh9vGAPUUz8tL9o4GbEMdWbhWNkAlW1lo-2BkkUj43C3hceXHqQxpAa3Q5fVc5dzpOZQL7JeKgqgOMTAetgrkxmm3RwSEeAk0veYzTid4EkO5DKTgtnOSQnDUnlERvOztPtK6RBO03-2B1R1IlV9cSn7XepXKEuAdUs2QkyTxLwsY9UsNY9u8UCLMsvslHmLnAst4CvENhTOXr2kIr-2BaPWu2rY4hqtSEbHzr-2FW1MplLAdJAVcaySyZKh3HPYo5filWQPhcRYQRb6dzns17Kf-2F8oj25Lyhjw6kFoptHBOHT1e1abo6pqeC4r4BYxLwtMRUs6vBsILerlnferaxcrV1eZ2DrP4mtum34Q9lT5nLpSQ-3D-3D> 	 	
- 	
- <https://d1a3f4spazzrp4.cloudfront.net/receipt_v3/Uber_Logo_White_RGB_138x48.png> 	
- 	
-Mot de passe oublié <https://email.uber.com/ls/click?upn=5TQkI4cGxaIGltwScN15UiEU1Z05tLORYDhCMvHDxMXp1-2FGrvQPqpo9EFNFs3mqmwnK9G-2F3FherPjzsICj7yM-2FK-2FJYue6uKR2EHeIe26RLwpFTiSq-2BB-2FMOIwXA4MEf4KzHSrwM9QQbMHeXFgqFXItep-2Bp1Kf9guqlEKa1wFayRA3nSyhHdpw0M5nDUB4Sy-2FJsESM7ZfaBkdKepvt8RTcsw-3D-3D05zM_clBvvyqJRFWsO9kvUbMGH-2B5G1jdnuYmzJCGRlcPRAAMORay2g-2FBZeb07cfZDHSgxf0jixB3L-2F2cNQH75tfgn3vhHzgQ2XDUDlCjelNSbXCi4hDQkPm8mNablwhTjvv52Imn3y7-2FlvkzQq5QRs9wQR0-2Bx60heyG4IVrgOv67-2B2fB8iK0BQvHSc4wP4zjjnChT2ozyRdkIcBPqXagoC5G8jLjJPYo9r-2F2DKz2DUHyCmzszpHzxGxLIsVj-2B4m-2Bv-2Ff90JTa935qOX6AfWvwUnChVjRLdxEUvSfIcPG7inxNC0RGhuXBh9vGAPUUz8tL9o4GbEMdWbhWNkAlW1lo-2BkkUj43C3hceXHqQxpAa3Q5fVc5dzpOZQL7JeKgqgOMTAetgrkxmm3RwSEeAk0veYzTid4EkO5DKTgtnOSQnDUnlERvOztPtK6RBO03-2B1R1IlV9cSn7XepXKEuAdUs2QkyTxLwmh1Bz-2FJPGTFMRcc-2BJ5vd8QVCzgjENXI76RWGeJX3GVe0J9tH7p0yin-2BEWX9nqGIJQLkwssGbAzyHHJkqWUWQq98Ge9dEl6luTg9Lbs9FEzrLNoOVgW6cJsN-2B4Kd5wQEGtWYCqn9KC7ho-2FDU-2B1dEgoTyG-2BfU6AL3VU5ufCc20w5eW-2FBiaOF-2BUiEYWMGliRU2sA-3D-3D> 	
-Confidentialité <https://email.uber.com/ls/click?upn=Ib78WjkFQ66GYzavQJcfTaUW2mLjCZlesuzr-2FyzEQzDKq5PxwjJLnlhd3kWpjkC8kBku_clBvvyqJRFWsO9kvUbMGH-2B5G1jdnuYmzJCGRlcPRAAMORay2g-2FBZeb07cfZDHSgxf0jixB3L-2F2cNQH75tfgn3vhHzgQ2XDUDlCjelNSbXCi4hDQkPm8mNablwhTjvv52Imn3y7-2FlvkzQq5QRs9wQR0-2Bx60heyG4IVrgOv67-2B2fB8iK0BQvHSc4wP4zjjnChT2ozyRdkIcBPqXagoC5G8jLjJPYo9r-2F2DKz2DUHyCmzszpHzxGxLIsVj-2B4m-2Bv-2Ff90JTa935qOX6AfWvwUnChVjRLdxEUvSfIcPG7inxNC0RGhuXBh9vGAPUUz8tL9o4GbEMdWbhWNkAlW1lo-2BkkUj43C3hceXHqQxpAa3Q5fVc5dzpOZQL7JeKgqgOMTAetgrkxmm3RwSEeAk0veYzTid4EkO5DKTgtnOSQnDUnlERvOztPtK6RBO03-2B1R1IlV9cSn7XepXKEuAdUs2QkyTxLwsyU4vB2e7-2F7D2062u4sme22laU-2BLVeknRstT7UrK3VtHI4bnoAJDieeNPzTPCWihgTyKqE-2FLXjD0XKo46iaDsv-2BzKC4rOnGoh4Am-2FSspPGdxHIsTNNnb9yYfORDgn-2FTkzlRFzjKxwSugPuKMUpfWrjtiMncVr8pK4VcofHtP-2BpqImd7hxbsKK4Ddz4umz0KwA-3D-3D> 	
-Conditions générales <https://email.uber.com/ls/click?upn=Ib78WjkFQ66GYzavQJcfTaUW2mLjCZlesuzr-2FyzEQzD9L-2F1tKRCOuyZn2F4t4pFGlhvN_clBvvyqJRFWsO9kvUbMGH-2B5G1jdnuYmzJCGRlcPRAAMORay2g-2FBZeb07cfZDHSgxf0jixB3L-2F2cNQH75tfgn3vhHzgQ2XDUDlCjelNSbXCi4hDQkPm8mNablwhTjvv52Imn3y7-2FlvkzQq5QRs9wQR0-2Bx60heyG4IVrgOv67-2B2fB8iK0BQvHSc4wP4zjjnChT2ozyRdkIcBPqXagoC5G8jLjJPYo9r-2F2DKz2DUHyCmzszpHzxGxLIsVj-2B4m-2Bv-2Ff90JTa935qOX6AfWvwUnChVjRLdxEUvSfIcPG7inxNC0RGhuXBh9vGAPUUz8tL9o4GbEMdWbhWNkAlW1lo-2BkkUj43C3hceXHqQxpAa3Q5fVc5dzpOZQL7JeKgqgOMTAetgrkxmm3RwSEeAk0veYzTid4EkO5DKTgtnOSQnDUnlERvOztPtK6RBO03-2B1R1IlV9cSn7XepXKEuAdUs2QkyTxLwixp9tiXMFRi6W6f4RcGMGjK95C6oUD2-2FPG-2BxwNGWQEB77V344wKs2vFhmP6Z7FrMHtkGLJI6Exv5t6KdB9rMctI1YGMrxsQZnqfgO28HJzkNxvMivU9sP904Q8YHzODk9RdfuLoboKdAzEYEYR6H3PSiN7HUWWDlDsPk1Vh60JhoThNPdkc7gCTG0G9in3F5Q-3D-3D> 	
-Uber B.V.
-Mr. Treublaan 7
-1097 DP Amsterdam	
+	 <https://www.boursorama-banque.com/> 		
+ <https://s.brsimg.com/content/pfm/notif/picto-solde-ba-1.png> 	
+ <https://s.brsimg.com/content/pfm/notif/picto-solde-ba-2.png> 	
+Votre solde est bas 	
+Bonjour Oscar, 
+
+Le solde de votre compte "CAV - BOURSORAMA BANQUE" est bas (inférieur à 50,00 EUR) en date du 17/10/2022. 
+
+Si vous avez des dépenses ou des prélèvements prévus dans les prochains jours, pensez à alimenter votre compte ou vérifiez vos conditions de découvert autorisé. 
+
+
+Je fais un versement sur mon compte <https://clients.boursorama.com/actions/banque/virement-initial?xtor=EPR-788-%5Bsolde_bas%5D&accountNum=4afc00accfbcde48aef262850e536f71> 	
+
+- OU - 	
+
+Je vérifie mon découvert autorisé <https://clients.boursorama.com/compte/cav/4afc00accfbcde48aef262850e536f71/decouvert?xtor=EPR-788-%5Bsolde_bas%5D> 	
+
+
+ <https://s.brsimg.com/pub/bourso/emailing/noticli/visuel-solde-bas.jpg> 	Se fixer des limites, ça aide ! 
+Pour maîtriser votre budget, vous pouvez vous fixer des limites à ne pas dépasser par catégorie de dépenses. Nous vous informerons dès que cette limite est presque atteinte 
+Je fixe mes limites de dépenses <https://clients.boursorama.com/mon-budget/objectifs?xtor=EPR-788-%5Bsolde_bas%5D> 	
+Vous souhaitez modifier les conditions d'envoi de cette notification ? 	Je modifie mes préférences <https://clients.boursorama.com/mes-notifications/gerer/solde-bas?alertId=ab84de3763d43b8933de37b4930af11c&xtor=EPR-788-%5Bsolde_bas%5D> 	
+Vous ne souhaitez plus recevoir cette notification ? 	Je désactive cette notification <https://clients.boursorama.com/notification/desabonnement/?token=y7U4Hq3aFvZ5waP63XQaSp0GuB5Q6ETWbt%2BBHPn9LbjeVacyaJAjTd%2FyAFwTTGXCL0H0Ceo41jAc9hnnbWzg20GgTXZGqgKlFylmaHHW6kvohhQMkHvtWuwQ3fCS5567jtO0QlFRUYHmL28nPJwJ26MLs%2BWsYSxqhvn5bEGrqPDMQOjamzbrQQ98G9cP9%2BsPrN1CZ3Jb9sj8cfadUyMMG3bNo0waHQ6cJEaKM7OLRvUiW3ExQ0R9eh%2FTdhBfuSbLReksT4A%2BbpzGm1SpxnlbfJBsjbich0rlMqSUOSPWPCYVzuAa%2BwAQva0TCUwciXURyiV9Dn1x41R%2B%2B3lLKESpoS%2F%2BFM%2FM4zjNF3%2FjhwU5Ned7OHXmO6cKqUJ%2BRHiFfr%2F5moiSjbYx6bQiyD3aMXBD%2FhsDWh%2FemaQSF6EPdNYMLUN%2FHy95VaegUvJgs94oxvPZ01tYNeJaET5XZun3gV%2F9FaDLnUt8uMf5oweLffkCsTesBKEdhXqiecTKkgQGdxWfRl7K7jQMlMgEaHLjMwV2MGojpNdLFzxJHx%2B0TCC14%2B7m3L%2FBRhzGJtfiKbiEhIErV7oCW%2Fk50xDUE9yZgzzk%2Fugdlq9WiId%2FYMt4HMtke6PVt8qUH8chB%2Bce%2B%2Fe41AL%2BvHV1vx0y6JAxrjGg97u%2FPKUA0Kd%2B7dKeDPR06p2alHI%3D&xtor=EPR-788-%5Bsolde_bas%5D> 	
 	
- 	
-Si vous pensez qu'il s'agit d'une erreur, rendez-vous sur help.uber.com ou appuyez sur AIDE dans le menu de l'application Uber. Nous étudierons le problème de plus près.	
- <https://email.uber.com/wf/open?upn=Lqf1oCf9XyLMeukKjU-2F87Y4tJr0ozZ5Cj7jnPM8wdo-2Bi3W2QmRmxr3EufH8TEt-2F-2FgjfTpHBT8qJqEsmtnCssiPDmYG04d5wHEydXFv7EGoJDJXTZznWrZ7ShHdfcyt5-2Bdycb-2F2vmuEIGPynPf9vq9XJwRuEY0FlHO7IZLbndkk-2FpHG7bo8St9wI8XBCxbH21c1yXQzv6OX-2FUQxPMdPKOCPpQcbgbJxb5TGdkMSaHyMPuW5IH4su7ZgMWxZAHMANsYxazKCW0Z9nf5LlDg95p8hL4qC52T0hsKRQhj2KCBMOx2jhZpfbS2lETRfyWQXHkxJjJu9u00a2hAfxCHumbBUuuZiRdzzIRicQvyH7L-2BwevW9Jf2J-2BlxTBDtjSk6HJpDG68EO0ONVJndmqf744v5nHWL4LAzpnNEESQhfDdi6SXO3RcITEX4vh9TgVmThXo5nB0g1yldHjHgBWPG4-2FfJGK-2BpgCFuoiAbbanrY4nLZMxwEK08KyuxDo8Sk240AFQwuE7KUnNGhSFws4WLaWKKxdD796-2BEZOvrBq8SbUcAmsF3Aj3Jz9fM-2FP3Z7FuB1y2ub9YesRhyq-2BGRZEPuqgydnDJvg6uk66y9irEKtAuJODX6tezfqAmSxr2QasWy8CBi4f2jeaJqWsGgXR88m9rsA-3D-3D> 
+	boursorama-banque.com <https://www.boursorama-banque.com/> 		 <https://www.facebook.com/Boursorama-Banque-1741973942734447/> 		 <https://www.youtube.com/user/BOURSORAMABANQUE> 		
+	
+	
+			
+	
+	
+	Boursorama, SA au capital de 51 171 597,60 € - RCS Nanterre 401 058 151 - TVA FR 69 401 058 151 - 44 rue Traversière, CS 80134, 92772 BOULOGNE-BILLANCOURT CEDEX.
+		
+	
+ <https://c0012.brsimg.com/xiti?s=584533&xto=EPR-816-%5Bsolde_bas%5D&type=email> 
