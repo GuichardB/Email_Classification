@@ -1,6 +1,12 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox, PhotoImage
 import pandas as pd
+import data_prep_functions as prep
+import pickle
+
+# Chargement du modèle à partir du fichier
+with open('svm_model.pkl', 'rb') as f:
+    svm_model = pickle.load(f)
 
 # Création de la fenêtre principale
 window = tk.Tk()
@@ -31,6 +37,30 @@ button_frame.pack(pady=20)
 def load_csv():
   filepath = filedialog.askopenfilename(filetypes=[("Fichiers CSV", "*.csv")])
   csv_path.set(filepath)
+
+def clean_and_extract_features(df):
+  
+  new_df = prep.columns_treatment(df)
+  
+  for i in df.index:
+
+    print(i)
+        
+    corps = prep.remove_https(str(new_df['corps'][i]))
+
+    corps = prep.text_cleaning(corps)
+
+    corps = prep.text_translation(corps)
+        
+    corps = prep.stop_words_english(corps)
+    
+    corps = prep.lemmatization(prep.nlp_en, corps)
+
+    corps = ' '.join(corps)
+
+    new_df['corps'][i] = corps
+
+  return new_df['corps']
 
 load_csv_button = tk.Button(button_frame, text="Charger un fichier CSV", command=load_csv)
 
