@@ -1,344 +1,567 @@
-Objet,Corps,De: (nom),De: (adresse),De: (type),A: (nom),A: (adresse),A: (type)
-IF28 : complement analyse de sentiments,"IF28 <https://moodle.utt.fr/course/view.php?id=1295>  » Forums <https://moodle.utt.fr/mod/forum/index.php?id=1295>  » Nouvelles Cours et Projets <https://moodle.utt.fr/mod/forum/view.php?f=692>  » complement analyse de sentiments <https://moodle.utt.fr/mod/forum/discuss.php?d=12738>  
- <https://moodle.utt.fr/user/view.php?id=419&course=1295>  	complement analyse de sentiments 
-par MATTA Nada <https://moodle.utt.fr/user/view.php?id=419&course=1295> , jeudi 6 octobre 2022, 17:58 
-  	Bonjour,
+﻿"Objet","Corps","De: (nom)","De: (adresse)","De: (type)","A: (nom)","A: (adresse)","A: (type)"
+"Nouveau mot de passe enregistré"," <https://media.cabestan.com/cnaf/cm_logo_allocfam_01.jpg> 	
+ <https://media.cabestan.com/cnaf/cm_logo_caffr_01.jpg> 	
+  
+	
 
-Certains d'entre vous sont amenes a transformer vos documents sous forme CSV afin d'utiliser R pour l'analyse de sentiments. 
+ 	 
+Nouveau mot de passe enregistré	 
+Bonjour,
+	
 
-Sam Paillard l'un de vos collègues avec Nao Nicolas ont développés une PI sous python pour faire cette conversion rapidement. Ils ont acceptes gentillement de vous le communiquer
+Nous vous confirmons la prise en compte de votre nouveau mot de passe de connexion à Mon Compte.
+	
 
+Votre mot de passe est personnel et confidentiel. Ne le communiquez à personne, pas même à votre Caf.	 
 
-Voici le code pour convertir les fichiers pdf en csv.
-
-from tika 
-import parser 
-import os 
-import pandas as pd 
-
-
-directory = 'docs' 
-
-
-docs = [] 
-for filename in os.listdir(directory): 
-f = os.path.join(directory, filename) 
-if os.path.isfile(f): 
-raw = parser.from_file(f) 
-docs.append(raw['content']) 
-
-
-df = pd.DataFrame(docs, columns=['text']) 
-df.text = df.text.str.replace('\n', '\\n') 
-df.to_csv('data.csv', index=False)
-
-
-Répondre <https://moodle.utt.fr/mod/forum/post.php?reply=23201> 
-Voir ce message dans son contexte <https://moodle.utt.fr/mod/forum/discuss.php?d=12738#p23201> 
-________________________________
-
-Se désabonner de ce forum <https://moodle.utt.fr/mod/forum/subscribe.php?id=692>   Se désabonner de cette discussion <https://moodle.utt.fr/mod/forum/subscribe.php?id=692&d=12738>   Modifier vos préférences pour les récapitulatifs de messages de forum <https://moodle.utt.fr/mod/forum/index.php?id=1295>  
-
-Vous lisez ceci dans un courriel ? Téléchargez l'app mobile et recevez ainsi des notifications sur votre appareil mobile <https://download.moodle.org/mobile?version=2020061515&lang=fr&iosappid=633359593&androidappid=com.moodle.moodlemobile> .
-
-",MATTA Nada (via Moodle),noreply@utt.fr,SMTP,GUICHARD BAPTISTE,baptiste.guichard@utt.fr,SMTP
-[sport] Pôle universitaire UTT,"Bonjour à tous,
-
-
-Vous souhaitez intégrer un des créneaux du pôle universitaire du programme sportif, vous devez impérativement vous mettre à jour de votre licence FFSU. 
-
-Rien de plus simple ! voici la démarche à suivre : 
-
-
-1) Payer sa contribution AS (5€/an) sur https://www.helloasso.com/associations/association-sportive-de-l-universite-de-technologie-de-troyes/adhesions/cotisation
-
-2) Envoyer son certificat de non contre-indication médical de pratique d'un sport en compétition à asutt@utt.fr ou asutt-ffsu@utt.fr, ou sinon, le cas échéant, sous format papier à la Halle Sportive
- Lien pour télécharger le certificat médical : https://drive.google.com/file/d/1ZzhvVBFhLT6U9F1htZYexQM96b0d2i_L/view?usp=sharing
-
-3) Signer l'acceptation ou le refus de l'Assurance Individuelle (IA) : https://filesender.renater.fr/?s=download&token=2c7617ce-620a-45bd-acc7-dedde75d7c9c
-
-
-Une fois ces étapes validées, l'ASUTT se charge de vous licencier, vous recevrez ensuite votre licence par mail directement de la FFSU.
-
-
-Pour rappel la licence FFSU est obligatoire pour intégrer les ""pôles universitaires"" mais aussi pour participer aux compétitions FFSU et au challenge troyen (tournoi inter-écoles).
-
-La cotisation AS UTT est quant à elle obligatoire pour avoir la licence FFSU, ainsi que pour participer aux événements (LaserGame, Patinoire, Bowling...) et voyage (SkiUTT', Montagn'UTT, Surf'UTT...) de l'AS.
-
-
-Pour des questions de responsabilité, les encadrants ne seront plus autorisés à vous accepter en cas d'absence de licence.
-
-Les créneaux concernés sont : 
-
-- break danse, lundi 20h-22h
-
-- rugby, mardi 19h-21h
-
-- judo, jeudi 15h-17h
-
-- tennis de table, jeudi 18h-20h
-
-- badminton, jeudi 18h-20h
-
-- escalade, jeudi 18h-20h
-
-- athlétisme, jeudi 18h30-20h
-
-
-
-Merci à tous de votre compréhension.
-
+Ce mot de passe est valide pour une durée de 22 mois.
+	
 
 	
-	
-	
-	
-	
-	
-Nous comptons sur votre collaboration.
 
-Sportivement,
+A bientôt sur caf.fr ou sur l'application mobile Caf - Mon Compte.	 
+Votre caisse d'Allocations familiales	 
+Réf : CALAUACMPC-docV2.6  999-2022-12-16 13:16:52 	
+","Ne pas répondre","no-reply@caf.fr","SMTP","baptisteguichard@icloud.com","baptisteguichard@icloud.com","SMTP"
+"Votre Caf vous informe"," <https://media.cabestan.com/cnaf/cm_logo_allocfam_01.jpg> 	Votre Caf vous informe sur :
+Vos droits et démarches 
 
- Le service des sports
+	
+ <https://media.cabestan.com/cnaf/cm_forme_corner-bleu_01.jpg> 
+ <https://media.cabestan.com/cnaf/cm_logo_caffr_01.jpg> 
+ <https://media.cabestan.com/cnaf/cm_visuel_pere-enf1_01.jpg> 	
+Bonjour, 
 
- Halle sportive 
- 03.25.71.85.52
+
+Une nouvelle information concernant votre dossier est disponible sur caf.fr. 
+
+
+Pour y accéder, munissez-vous de vos identifiants et rendez-vous sur caf.fr > Espace Mon Compte > Rubrique Suivre mes démarches > Courriers, courriels. 
+
+
+Vous pouvez consulter, télécharger ou imprimer ce document. 
+
+
+A bientôt sur caf.fr, 
+
+Votre caisse d'Allocations familiales. 
+
+
+
+
+
+
+
+Votre Caf vous recommande de ne pas cliquer sur les liens contenus dans les courriels. Ils peuvent diriger vers des sites frauduleux. Il est préférable de saisir directement l'adresse du site dans votre navigateur. 
+
+Ce message vous est envoyé par la Caisse nationale des Allocations familiales. Si vous ne souhaitez plus recevoir de courriel de votre Caf, veuillez vous désabonner sur caf.fr > espace Mon Compte > rubrique ""Mon profil"". La loi ""informatique et libertés"" du 6 janvier 1978 modifiée vous garantit un droit d'accès et de rectification des données vous concernant auprès du directeur de votre Caf. Ceci est un courriel automatique. Vous ne pouvez pas répondre à cet expéditeur. 
+
+ <https://links.emailing.caf.fr/open/log/18819699/LTY3MDEyNTc0MDMS1/0/MjEzNjc5OTU0NwS2/1/0> 
+","Votre CAF","noreply@emailing.caf.fr","SMTP","baptisteguichard@icloud.com","baptisteguichard@icloud.com","SMTP"
+"[KG모빌리언스] 가상계좌 결제 내역을 안내해 드립니다."," <http://www.mcash.co.kr/EMS/img/top_line.png> 
+안전하고 믿을 수 있는 KG모빌리언스 서비스를 이용해주셔서 감사합니다.  <http://www.mcash.co.kr/EMS/img/new_logo.png> 
+
+고객님의 결제가 완료되었습니다.
+
+
+KG 모빌리언스 서비스를 이용해주셔서 감사드립니다.
+고객님의 결제내역을 알려드립니다. 
+
+결제정보
+결제일시	 2022-03-24 15:05:45	 
+결제수단	 가상계좌	 
+구매사이트	 http://dorm.cnu.ac.kr/html/	 
+상품명	 생활관비	 
+결제금액	 1,218,350 원	 
+구매상점	 충남대학교학생생활관	 
+고객문의	 
+	
+※ 결제취소 및 상품문의는 구매상점에서만 가능합니다. 
+
+*	본 메일은 발신전용 메일 이므로 회신을 통한 문의는 처리되지 않습니다.
+*	본 메일은 전자상거래 결제 대행 업체인 ㈜KG모빌리언스에서 자동 발송되는 것으로 '전자상거래 등 에서의 소비자 보호법에 관한 법률 제 8조 3항'에 의거, 결제 시 메일 발송에 대한 고객의 동의를 얻은 것으로, 해당 쇼핑몰과는 별도로 발송됩니다.
+*	본 메일을 임의로 위, 변조하여 사용할 경우 형사 처벌의 대상이 될 수 있습니다.
+
+*	 <http://www.mcash.co.kr/EMS/img/new_logo.png> 
+*	사업자등록번호 : 220-81-82546 | 대표자 : 고규영 | TEL : 1800-0678 | 이메일 : help@mobilians.co.kr
+	04517 서울특별시 중구 통일로 92 KG타워 16층 (주)케이지모빌리언스
+	Copyright (c) KG Mobilians. All rights reserved. 
+
+
+ <http://nems.mcash.co.kr:9000/servlet/ReceiveConfirmEC?SEND_MODE=R&CAMPAIGN_NO=000000000000266&RESULT_SEQ=1648102257491953&START_DATE=20220324151058&END_DATE=20220331151058&LIST_SEQ=0000000009&RECORD_SEQ=0&CUSTOMER_ID=desonly3de662d2784af9c2fc02fce0cc2daba8> 
+","KG모빌리언스","mail@nems.mcash.co.kr","SMTP","","baptisteguichard@icloud.com","SMTP"
+"Votre commande Courir est confirmée COM4067625230","Bonjour Baptiste,
+
+Merci pour votre achat !
+
+Vous trouverez ci-dessous le récapitulatif de votre commande. Dès que celle-ci sera prête, vous recevrez un e-mail de confirmation d'expédition.
+
+Votre compte sera débité à l‘expédition de votre commande.
+
+Vous pourrez alors télécharger votre facture dans Historique des commandes <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewjT86zFhFNOaIGvBHnNhjjhnGzGDvnjthZh0bRwLrZGgXQCG_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3IgyqdkbNHv-2BqMwGU9KmuIuQU9VM5W81u8OyIosTI4bvbI0u7LDR2nZZ-2B9xnZQbvsPsFBSKih3ldNK-2BAyHM0uKIKwGpXuM6YuEfI277vnuO86xDYhIAGcnU1zjFAmt-2BqoLyoB3kxRDEldFDYJhhXFPtWUIPXDtghZhtMw4yM0FUmAc2icnMuSZqezchg5o94ljQU> de la rubrique Mon compte <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewjT86zFhFNOaIGvBHnNhjjg4EI80UzvHXbaCFLvzhzihWkpa_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3Igy7Dy6Z-2FZWbMq88nCnz-2FdYnvZsYB5eF1Y3Rx9uZ1KgK8QvOEhkd-2FlsIbhycFEVo6tA2mzmISRNkvTvGK5c4-2Fcqta9zEDLgtN9w0rqTxZZBqCytxR2cyXQkGgnaedZO44lTSTxZqJZTK8GhPvJjXT3KMoAjGQ2oWD3JzxDQLfec9Hah1igEnTOofCiWt-2Fo5Vzg-2B>  sur notre site.
+
+Pour toute question relative à votre commande, vous pouvez consulter notre FAQ <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewkHkfW7bwol8npf37-2B-2BQmeali0BU3AQRt9s8RxGd68Hz1hUL_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3IgyhLIr9tfU-2F4buWcTR1LqTw1K5hStwri7Lt4izQGtdCAwNj3oTQ0R1DtcrLlvVIaXHD0WXEUSr12OXoEkLPK-2FNbbTOSAL3jZ1U8zzkkJHDZOIOm4k21uQZ6zo748S3BL-2Fp-2BSpmRtlG072JL39EQbIZp2W7a-2BgFx6YF1Av3Dh2bHFO8-2Frrh-2FakSJAtMWP0ue5ZP>  ou nous contacter ici <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewjT86zFhFNOaIGvBHnNhjjhQLcerpwSP0xrktfv3Z1FVQljFkL8eT0GP46CS9mi8SA-3D-3D1kBo_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3IgyWrIRvjC3IS3U-2FjwbeDw5p16nBq2a7fswxZ-2FEp5IzTjjmpDMl62kT07m53v28vvtGCSxz7rHLDXY64ueGHnP97xLFD-2FuKn2EPcgElbnCMlMmcH92GR7aP9Pyi4sOg3QQTHZ-2FNyr21Rn4srq6PWp7LllIu5fCPzZvvxzI3ffxUTU2KM-2FeJyMiAKYbF8YRkm9Py> .
+
+A très bientôt sur Courir.com !
+
+L'équipe Courir
+
+ <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewn64o-2Bz-2F8PAWJdM83NGdCFg-3DQYzS_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3Igy2Ym45KTQu1XRmEHZRoD8UzetYQazCXiFMtw6ruINftyAEPRBVowxY8lqQfWT6DzLoYtDwZjJk5BSzGGhbRAisqEuI0zdiI4Smq-2B7c13iT3vNbTXT1TtpXEpUaKerw-2FtJjhUV-2BSNZZA3GOt3GevBh016RSygqKtWwzm2EehXypAaUbfhO9RKugpfZEad-2FaBMp> 	
+ <https://shipup-assets-prod.s3.eu-west-1.amazonaws.com/assets/default_company_assets/main_new.png> 	
+Votre commande est confirmée	 
+Bonjour Baptiste,
+
+Merci pour votre achat !
+
+Vous trouverez ci-dessous le récapitulatif de votre commande. Dès que celle-ci sera prête, vous recevrez un e-mail de confirmation d'expédition.
+
+Votre compte sera débité à l‘expédition de votre commande.
+
+Vous pourrez alors télécharger votre facture dans Historique des commandes <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewjT86zFhFNOaIGvBHnNhjjhnGzGDvnjthZh0bRwLrZGgeTWK_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3IgykdXNGIkf1dWnyyZNNtdouaz-2Fb4IDRRUlsUphXAT6SJXevkm7n0A88SljQTbfGeamw2S-2BAtjY4WRVn9qGdbNlMPPb-2FBlKAnpGXumWKlvoQ-2FzpKgvn9mNmAcOEnl-2BqtGVbubwF2xorYkBC6L44WYx6HdEq0e6nR6ftO4ndfFr979J1QNEZA9on8St3woSd8rXc> de la rubrique Mon compte <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewjT86zFhFNOaIGvBHnNhjjg4EI80UzvHXbaCFLvzhzihciab_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3Igyjbd9dD8ZY2m30Alu7ZIgAKL91-2BnyYLv3copmgVvwv2FkVep9qjpzIGXlqOYaL1FiGExNnQzweuMVOgebqgcUe-2BmDza7g7xMzH-2B3zwr8R1-2FdRkAmN2ehNa7mGIGaWDgqltkLaKfXM6ja8yjTGdpKpaG6-2B9-2FSKBytAO3LGeM23Yw8jkNPOzpfR5ygjNfa-2ByT-2Fq>  sur notre site.
+
+Pour toute question relative à votre commande, vous pouvez consulter notre FAQ <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewkHkfW7bwol8npf37-2B-2BQmeali0BU3AQRt9s8RxGd68HzHuv__1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3IgyHoSj8-2BHUGfEn45YPxEJz-2Fz2ShjvaB1Cjto7brUbOLl6LnFcd0mQdQ-2FIzjX1D0-2BaSpgXil3K6H-2FrbUPqSgcqwC3hjVgTRHrGNAPRKCowai5QJTSwSKBVNpCx5QsnxMFDMQVhRp8seYQHeiHvDNTw79yzk1h9bywQvWPi63BXEFrENmRfBE-2FFzkA1H9Wq9nujF>  ou nous contacter ici <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewjT86zFhFNOaIGvBHnNhjjhQLcerpwSP0xrktfv3Z1FVQljFkL8eT0GP46CS9mi8SA-3D-3DUxgk_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3Igy631XLZ-2FDZjFhQsdNdB-2F7OBDQYSvkTDBr3P38fypsmFseXoNzG6ktuxYcqJM4TBXANBD9Kj2vXht5-2BtWuiltcN8YQ3W7-2Bq0mN6uPbbQzZbMn8g6VL2SQEJdfbryc0qaSFwFkLFlig-2BHij-2FCgnlnjOrXY2REvCXuu7G-2FfBj5YO-2Bx5zEOYlW4D5x42ytKxqx87R> .
+
+A très bientôt sur Courir.com !
+
+L'équipe Courir
+
+Suivre mon colis <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewlbt9fF0sw5iScxLWC2k4lVZaF5ukj4GK3kDreNBZ2rqt3LMgENg4hchWQgojcAMe9cjwpZ6ixKzNRaMXN4yYX-2FUWDct-2FRRCuzvipZ0L-2BIZ-2FjOgO-2BtoGvDZ5foIky-2BqpEjYgtwIlHoHtBppI2s-2FkhI4-3DohMX_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3Igyes4-2BbyeLY2gTUEiPTO907SDSK4His9nj7Qx2QB7pdPZQ7-2BDKASI0oMPCOTvra9oeTkAf67f-2BPYiBWTD2dtZgUKmOQCnLIRQwvq54xWcIpJKQTy5KGsui-2Fbk7J8yGmm4xP9-2FjGVby6MWu0anQjb3sXgAzAien6htH7CI-2BTds4dJr5xo0ZVhp4V20Xc1kjI3tT>  	
+Articles concernés :	 
+ <https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dw6cf9ac93/images/hi-res/001499153_101.png> 	
+550
+
+Quantité : 1 
+
+Détails de commande : 
+
+Nº de commande : COM4067625230
+Date de commande : 11/09/2022
+
+Adresse de livraison : 
+
+Baptiste Guichard
+75 RUE DE PREIZE
+10000 TROYES
+
+ <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewuQFBmbwp6COSS3zol3kKsEwBbRuO1vaNWJeSqdUZHrHlYhZ_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3IgyP9KDYTkCf-2BVJfU-2BMfj5VSKorAVXTd6siOg21O8dWi4CeNQOYdLybfjy-2FnslN4es1qS88b6-2BD0XJCLJ6EySf60PsbtuHGbl-2BLiTUHXYa9MZL9snOhK6Orb-2BT-2FEAQAEm5Gs31tgQjvAKLgN7re1mj2zGJCsFid7-2BiL4gZfU-2BbvG-2BfboZmb8Tdqf28WCCFWUQhz> 	 <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewmYcoNRpCRuYnro1aei9tXwSaIGxKQqnYMvHihWAQut0G--h_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3IgymNkstXNZybz3fhc1mIkmQbVW1XCn9k06hfYWpz1rudgIY6y7k-2FyLHMYWbhyPVPfBha6L-2ByUhAlnjKhkDewscx19jftfhf1VRh002iEDbSf9mAAgO38BnA5EKc23TijtR6BaI-2FULbrd-2B1qHCjO-2FUxPtXIubfG8P6pvM8VR6yfBFTSNZTnmGFgX3cCrvVDgwK-2B> 	 <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewi-2BMYmtwbZA2p0fjwCWxnh5t6U4p6kH5sB-2FB8V8-2BI-2FpiajLB_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3IgyGQO4NcVP-2BsqjMYv4q-2FHOPsLOLTFzaiupF-2FxCEKq9Le-2BH4V9di6lWS-2BCJpv1wVpnPHKpws0D6eX1KKPN5hrdyuQCT-2FT2AVbUcXqNHdyJrHBvkAgUjSfQsIPkg-2FEEtJUfuF5-2BfuxVjBSc-2Bq68bMmo9u3ITKfunQrNCK8xgR6bg4gK7ORs7nHGZni-2BdttoYseAb> 	
+Groupe COURIR SAS au capital de 65 665 681,63 euros, RCS Paris n°843 726 704.
+
+Service Clients Courir - 6 place Robert Schuman - 38000 Grenoble 
+Tél. : 09.70.25.22.39 (N° non surtaxé, coût d'un appel local selon le tarif de votre opérateur)
+
+Les données à caractère personnel vous concernant sont recueillies par le Groupe COURIR uniquement dans le cadre de la fourniture du service souscrit. Conformément à la loi Informatique et Libertés et au RGPD, vous disposez d'un droit d'accès sur les données à caractère personnel vous concernant. Informations et démarche : consultez notre politique <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewjT86zFhFNOaIGvBHnNhjjiRx7tYF-2FgMP3ULXH501gr6I9gSb07QSvVUrjSwAwPjJg-3D-3DcZJz_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3Igy0P1BbgE-2FrNzQaFgiOQLj8-2BvgNbPQMBi2Bt8xDrQxAJfDCQEbm5Nhm2DSlPh6niPRvBe-2BK9vCmQBudlu-2FR5LBQcsFZ8bnaEDIhP4uILUw91wd8Ze3cEoMquHZ7uUKEivo-2BFrSUxRB4Ua1GF-2FBV6en3lTEbUEEgLvdx-2F4p-2BKW-2FZhvYp5fIKGSW-2FQ64HCqPr7lG> .
+
+CGV web Art.11 <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewjT86zFhFNOaIGvBHnNhjjj1PrJt8nUxlHS5MdfrGM-2Fnr6vNsGRiju64pB6u-2Blrz8iG1c6XaWS8L-2FSTicUzH3c8-3D4H4a_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3Igyqe1xwgrpxAA-2BoHtrLJiJ6Seikaaq5mL7pzUAxAeh8wE6gORByDnF6cnAcJvPoWlFLP8oRZrYUwUxRuQfSECK-2FyshJLTSpfMo7NbeGUDr1RSfjYOVFX8-2Bd42dP4lh3wW-2FcOQv253EKHHkz2HzC6EbF4OZSiT8JWwlYy6C2JtmV92PeO0eyVW8KiMdFX1UKBsO>  - FAQ <https://links.shipup.co/ls/click?upn=JGGJgbV3beveH00vwNzewkHkfW7bwol8npf37-2B-2BQmeaVN5RJ988jXsRzZcBwIVfBoNabrxt7wKCZrRdl3-2FkLXA-3D-3D8w5v_1h0YoukDnslC4joui8fxKGwbimV90SS0PUIRoIvegYxTCIoOcee0SmHyEozWWznxBLapIwdfWrt6-2B1DPnhnCZIiXGL1cO8whF6LCmmYvtcXVk8Dp5UKhmyAjh0nw3Igy2a7KupxjH4aTcABIyheEHeV8yh5hH1IM8OLLvw3s0iLGiGL-2F77edm5KouY-2B-2Bk2AhMbSHZQbVAdtfyieihfVxWQxiVwDVkTjN-2BgUAZwHnL9fGN2J1VETi9MSU-2BAx2Pj3Io5WsgZf0oifYSTLFBViZ0JR9pJplkYReYoOHwNfRVecyr1SZ-2BBllRU2viMzxgT-2F1>  - Contact service client <https://www.courir.com/fr/contact-us.html> 
+
+
+
+Powered by Shipup <https://www.shipup.co/?utm_source=shipup_mails&utm_medium=powered_by_link>  | Se désinscrire <https://api.shipup.co/v1/unsubscribe/eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImJhcHRpc3RlZ3VpY2hhcmRAaWNsb3VkLmNvbSIsImNvbXBhbnlfaWQiOjQ3NjYsImV4cCI6MTY2ODE3NDkwMn0.HHaSL7nnQJMAAx81KMR5Pymt44zkYR6vAHApMRasDwA>  
+
+ <https://links.shipup.co/wf/open?upn=-2FO4r-2Bv3idb-2FUifLo2WiIBsSjcjtiK0eDnkYL6XCKm0XsEJ3oq1iCTHrXwBDdlQa9UXkhCVGlE7-2BLl4Ztk9AqmBagIYu5wVhW72VfPmcdsWGscm2NgyoCYpO04zYGLo6mwAxLRm5FcPl70zEk-2BO9i3azFMJXSQydYQgy5DCxi9el-2F6NcIo8db5zw2zTRhUuBW8ggG5MVOBNscAeXZHI6odjZarket-2Fjh46dUCQePc0-2BE0AE6-2Bf1tOO0u932eacUHHrs8d0gtSbhmo-2BGE5HodugxDuONOUYszuQcm0lSOM28YuJkzcOoGO6791OkdvYFle> 
+","Courir","courir@shipup.co","SMTP","baptisteguichard@icloud.com","baptisteguichard@icloud.com","SMTP"
+"Etat des lieux du : 2-07-2021, TROYES, 16 RUE DES QUINZE VINGT","Etat des lieux effectué en votre présence 
+
+Madame, Monsieur, 
+
+Nous nous référons à notre état des lieux effectué et vous remettons, ci-joint, le protocole complet avec annexe(s) et signatures. 
+
+Avec nos salutations.
+
+SQUARE HABITAT Troyes
+Clémence FLACHAT
+18, quai Dampierre
+10000 TROYES
+
+Tel : 0325826009
+E-Mail : c.flachat@squarehabitat.fr
+
+PS : Afin de vous aider dans toutes vos démarches (compteurs d’électricité à votre nom, commande d’une box Internet, résiliation...), nous vous assistons gratuitement et sans engagement au 09 71 00 89 07 ou directement sur monassistantdemenagement.com 
+
+Le code unique identifiant le PDF est : (a3:16:9c:6d:f8:71:46:cc:2c:f2:af:e7:a6:97:70:cb:e0:50:8e:5d:b4:9c:6f:1c:b1:0d:36:3b:5e:cd:b3:06). Si ce document est modifié, le numéro unique du PDF changera et ce document ne sera plus valide.
+
+
+","SH0503 SQUAREHABITAT","squarehabitat0503@icloud.com","SMTP","baptisteguichard@icloud.com;v.guichard.paul@gmail.com;c.flachat@squarehabitat.fr","baptisteguichard@icloud.com;v.guichard.paul@gmail.com;c.flachat@squarehabitat.fr","SMTP;SMTP;SMTP"
+"FYI : Startup Inside ","Coucou mon Loup,
+
+Pour ton info je suis en contact avec le fondateur de StartUp inside , spécialiste de l'organisation d'évenement autour de la data, pour peut-être entrer dans le Jury d'un Hackaton organisé par LVMH en décembre .
+Gros Bisous
+
+
+
+https://www.artefact.com/fr/news/artefact-today-announces-the-acquisition-of-startup-inside/
+
+ <https://www.artefact.com/fr/news/artefact-today-announces-the-acquisition-of-startup-inside/> 
+Artefact annonce aujourd’hui le rachat de Startup Inside - Artefact <https://www.artefact.com/fr/news/artefact-today-announces-the-acquisition-of-startup-inside/> 
+Artefact annonce aujourd’hui le rachat de Startup Inside, pionnier du conseil en stratégie d’open innovation et d'intrapreneuriat. 
+www.artefact.com
+
+","Guichard, Jean-Paul {PEP}","Jean.Paul.Guichard@pepsico.com","SMTP","baptisteguichard@icloud.com","baptisteguichard@icloud.com","SMTP"
+"HEC Paris - Application Submitted"," <https://hecmasters.gomovein.com/services/get-file-by-repository-id/instance/hecmasters/id/5c2deae48ba3283463366a52> 
+Dear Baptiste Guichard,
+
+Thank you for submitting your application for the HEC Paris MSc X-HEC Entrepreneurs program in Round 2. We look forward to reviewing it. 
+
+Your file will be processed by the Admissions Team and we will be in contact with next steps. If we have any questions on your application, we will contact you by email.
+
+IMPORTANT: The PDF available for you in your applicant space is limited and not all documents will be merged. Please be assured that the complete file is available to us in the back office and will be passed to the treatment phase and jury.
+
+If you have any questions in the meantime, please do not respond to this email and contact us directly at: admissionsmasters@hec.fr <mailto:admissionsmasters@hec.fr> 
+
+Best regards,
+
+The Admissions Team
+HEC Paris
+
+================================================French version========================================================
+
+Bonjour Baptiste Guichard,
+
+Nous vous confirmons la bonne réception de votre dossier de candidature au programme MSc X-HEC Entrepreneurs HEC Paris à la session Round 2. Votre dossier de candidature sera examinée dans les plus brefs délais. 
+
+Votre dossier sera traité par notre équipe et nous resterons en contact avec vous pour les prochaines étapes. Si nous avons des questions concernant votre candidature, vous serez contacté par email.
+
+IMPORTANT : Le PDF généré automatiquement après soumission du dossier est limité et ne présente pas tous les documents joints en ligne. Soyez assuré du fait que votre dossier est complet du côté administrateur, sera traité, puis transféré au jury.
+
+Entre temps et si vous avez des questions, veuillez ne pas répondre à cet email automatique et contactez-nous directement par mail à l’adresse suivante : admissionsmasters@hec.fr <mailto:admissionsmasters@hec.fr> 
+
+Cordialement,
+
+L’équipe des admissions
+HEC Paris
+","HEC Paris - No Reply","noreply-mastersprograms@hec.fr","SMTP","Baptiste Guichard","baptisteguichard@icloud.com","SMTP"
+"Il est parfait ? Vite le cadeau parfait !","Livraison OFFERTE et garantie | Un joli cadeau pour vous
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ <https://gridinbound.blob.core.windows.net/gic/g.png?h=a8aa7a68f61a412a96ec3e0dc5cfcac8>  <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E7nXpn7pUDpFfd6Qr%2Bm0J0Ftz0Qq50gRGWkzvh%2B0EQVvU2JzYhSZ2wU2RVC0fIvQOn_AzIeOf5smlH6_dODzyisoIoEWGMwqjZc_O> 
+ 	 
+Pour être sûr(e) de recevoir tous nos emails, ajoutez info@enews.histoiredor.com <mailto:info@enews.histoiredor.com>  à votre carnet d'adresses !
+Si vous ne désirez plus recevoir de messages électroniques Histoire d'Or, quittez notre liste de diffusion <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E7YGlfVGJkpwitqHrzhz0z6ihVwuOVANqvrltJrdsHECoxncNkrI67LV3yY3MVeWV4A7%2B5eqQramn2nMIK1KQmfPgY> .
+Un problème de visualisation ? Utilisez notre version en ligne <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E8dO8IFRT7entSgwWd%2BkLfoE1bTUuLbF9JSWKYDPWkeZUw9vi36CoYfsv_0UYt2OvUi8A%2BGjzXsnoHDN35moPaBW2s> .	 
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E7RXzSPpN61ijCc0teOihcr9DmipNhgqewBvBXcIHxofowa%2BNA1YDP5OcBy%2BBpWz230x6x6wugYUaZSlkeLk2Zqp24> 	 
+LES IDÉES CADEAUX POUR LE SURPRENDRE <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E92CPr0Qr7S%2Bvy5_hjy7t3szgK_naLouiiBcxyDO5ViyUx4slo04uEJN0clt6DLulL17hXJOAfQGaiDdzLZIpDRLEd> 	 
+BIJOUX <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E5%2BRDVCr8iYUatrC7uCiYSF4Sv10fQ7WmgrJwDiTDqbkUxz1yjDPQqoy7YEPi315wn7J95vsqYJpsX6nzkSUM834Ei> 	  <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/br_d.jpg> 	MONTRES <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E6lEWautPNmUVpATd0lPVlP0xYNR5mn40213GQADHwCwUxCNCyFQECBRBHSKe4lHe_FfCUs3YpzhGfxQrztNWROcwB> 	  <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/br_d.jpg> 	SAINT-VALENTIN   <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E7BXdVKn4nMvhAupG93P8_8rTL7g0QKoRs2Xt%2BOPc%2BCuUwKw521leXe8mCUYmKvSlqnqfjKWPkE0XG0jfUeyAF78Ub> 	 
+	 <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E6QskavgoKiinMc6AkdN7qaCuTv4tJt5HXMP4CnDeeiMoxG9Ft%2BpRHMVlfTgaZ8auVj%2BLn7SRdfNLmyoT2yFi3ImU4> 	 LIVRAISON OFFERTE* <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E6QskavgoKiinMc6AkdN7qaCuTv4tJt5HXMP4CnDeeiMoxG9Ft%2BpRHMVlfTgaZ8auVj%2BLn7SRdfNLmyoT2yFi3ImU4> 
+ET GARANTIE AVANT LA SAINT-VALENTIN <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E6QskavgoKiinMc6AkdN7qaCuTv4tJt5HXMP4CnDeeiMoxG9Ft%2BpRHMVlfTgaZ8auVj%2BLn7SRdfNLmyoT2yFi3ImU4> 	 
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/spacer2.gif> 	
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E_Bywlt24JtNgInsZuD53hW%2BaoPVcARlBh6fMuK0J_tToxFQoVW14BpjF9CYBlNA5APbwxDWaypLAmLhPWSWsnjQgM> 	 
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/spacer2.gif> 	
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/coeur1.jpg> 	La Saint-Valentin approche et vous n’avez
+qu’un seul désir : offrir le cadeau idéal à celui
+que vous aimez. Ne cherchez pas plus loin,
+il est à quelques clics !	  <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/coeur2.jpg> 	
+	
+JE TROUVE LE CADEAU PARFAIT <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E%2BYvwxUt22nbbhYTPwR6sX6skEfKbP4AzWqDEcqnENDKUwoVH9R1li%2B2mZUPEMpx1%2B8lk_HMu1%2BKI7BsXtEg5BlL2M> 	  <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/coeur3.jpg> 	
+	
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/brd_t_1.jpg> 	Et si le cadeau parfait était...	  <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/brd_t_1.jpg> 	
+Un bracelet ? <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E9J8hu7VAkV3UmU4nX2HJM7142re4ffzvJnFJ6C1ygDrow9VHMg9vYznWUWL1D46EtUCZ__2C1%2BAGr2y9ZqTFZGMoE> 	  <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/coeur4.jpg> 	Une bague ? <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E8tSzROsoWKtLhM0RB5txeMgzAYY8Y2NRjEGGetrDmJXox5TtH8ZVOyJp10Drv4zf6gApguTVtkAoucclfbnjfBT_q> 	 
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E9J8hu7VAkV3UmU4nX2HJM7142re4ffzvJnFJ6C1ygDrow9VHMg9vYznWUWL1D46EtUCZ__2C1%2BAGr2y9ZqTFZGMoE> 	 	 <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E8tSzROsoWKtLhM0RB5txeMgzAYY8Y2NRjEGGetrDmJXox5TtH8ZVOyJp10Drv4zf6gApguTVtkAoucclfbnjfBT_q> 	 
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/spacer2.gif> 	
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/coeur5.jpg> 	LES BRACELETS ► <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E9J8hu7VAkV3UmU4nX2HJM7142re4ffzvJnFJ6C1ygDrow9VHMg9vYznWUWL1D46EtUCZ__2C1%2BAGr2y9ZqTFZGMoE> 	 
+ 	 
+Un collier ? <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E%2ByvdL6W2dvz3y6A9Yd%2BQbFECmQ8hu37doFU8Z2U%2B0K3UxGQJgl1ifOHvhGr0c8VVdkWonkoCUq%2BMkXLOWspyKp3o5> 	 
+ 	 LES BAGUES ► <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E8tSzROsoWKtLhM0RB5txeMgzAYY8Y2NRjEGGetrDmJXox5TtH8ZVOyJp10Drv4zf6gApguTVtkAoucclfbnjfBT_q> 	 
+ 	 
+Une montre ? <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E6N2C9CJYhyC9n%2BiRj67qrFzsThc8Z8St46dt8onp87bUx7C0COqfn93j9cJNHehfRrTZ%2Bv4FA3f%2BOlpY8ytReTjEr> 	 
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/coeur6.jpg> 	
+	 
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E%2ByvdL6W2dvz3y6A9Yd%2BQbFECmQ8hu37doFU8Z2U%2B0K3UxGQJgl1ifOHvhGr0c8VVdkWonkoCUq%2BMkXLOWspyKp3o5> 	 	 <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E6N2C9CJYhyC9n%2BiRj67qrFzsThc8Z8St46dt8onp87bUx7C0COqfn93j9cJNHehfRrTZ%2Bv4FA3f%2BOlpY8ytReTjEr> 	 
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/spacer2.gif> 	
+LES COLLIERS ► <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E%2ByvdL6W2dvz3y6A9Yd%2BQbFECmQ8hu37doFU8Z2U%2B0K3UxGQJgl1ifOHvhGr0c8VVdkWonkoCUq%2BMkXLOWspyKp3o5> 	 LES MONTRES ► <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E6N2C9CJYhyC9n%2BiRj67qrFzsThc8Z8St46dt8onp87bUx7C0COqfn93j9cJNHehfRrTZ%2Bv4FA3f%2BOlpY8ytReTjEr> 	 
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/coeur9.jpg> 	JE LUI FAIS PLAISIR <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E_5n24JC1Z4jk2Hl8TjzZyDpja8_ZiVUshtSr5r7aD_hUxNDFP_OBKETdsLUYnNa3tQweXDlAQKR1OXFPM19OL4W_e> 	 <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/coeur10.jpg> 	
+	
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/brd_t_3.jpg> 	En ce moment	  <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/brd_t_4.jpg> 	
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/brd1.jpg> 	
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/brd2.jpg> 	 <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E4CwObxvq0vrnMwgSpLixK6OtXeqLBcc3cHkJEZSXwcSoxodUpZIE_i%2B8i0gRFWepmNXHne559CZxJSNFMmiHc7ioX> 	 
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E4CwObxvq0vrnMwgSpLixK6OtXeqLBcc3cHkJEZSXwcSoxodUpZIE_i%2B8i0gRFWepmNXHne559CZxJSNFMmiHc7ioX> 	 
+J'EN PROFITE ! <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E4CwObxvq0vrnMwgSpLixK6OtXeqLBcc3cHkJEZSXwcSoxodUpZIE_i%2B8i0gRFWepmNXHne559CZxJSNFMmiHc7ioX> 	 
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/brd3.jpg> 	
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/brd4.jpg> 	
+	 <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E_ZM8OdPIveNVwJS1gFdHyGX6lGEZBuCL_MjVLK9kETuoxMz6TYpCkF7ziFQ8GR6%2BpGIpX7oI11AGZUVbZDdHShmom> 	 
+ 	 
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E_ZM8OdPIveNVwJS1gFdHyGX6lGEZBuCL_MjVLK9kETuoxMz6TYpCkF7ziFQ8GR6%2BpGIpX7oI11AGZUVbZDdHShmom> 	 
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/spacer2.gif> 	
+BAR À CADEAUX <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E_ZM8OdPIveNVwJS1gFdHyGX6lGEZBuCL_MjVLK9kETuoxMz6TYpCkF7ziFQ8GR6%2BpGIpX7oI11AGZUVbZDdHShmom> 	 
+Trouvez le cadeau idéal 
+pour lui dire ""Je t'aime"". <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E_ZM8OdPIveNVwJS1gFdHyGX6lGEZBuCL_MjVLK9kETuoxMz6TYpCkF7ziFQ8GR6%2BpGIpX7oI11AGZUVbZDdHShmom> 	 
+VITE, SON CADEAU ! <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E_ZM8OdPIveNVwJS1gFdHyGX6lGEZBuCL_MjVLK9kETuoxMz6TYpCkF7ziFQ8GR6%2BpGIpX7oI11AGZUVbZDdHShmom> 	 
+	
+	
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/brd7.jpg> 	EN SAVOIR PLUS ... <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E9zGlC4qLNXfFT9rWDMMSr5dqA%2BmUJM_tu79WyWoMxWGowo6PM5ApK9i5jfKClDo8r6okOX6EfxSRvK7sW4sd2IPMA> 	  <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/brd8.jpg> 	
+ <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/coeur11.jpg> 	Histoire d’Or reprend votre or,
+l'occasion de (se) faire plaisir pour la Saint‑Valentin. <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E9zGlC4qLNXfFT9rWDMMSr5dqA%2BmUJM_tu79WyWoMxWGowo6PM5ApK9i5jfKClDo8r6okOX6EfxSRvK7sW4sd2IPMA> 	  <https://thomeurope.emsecure.net/images/HO/2020/7802_homme_ho_st_val_pour_elle_et_pour_lui/coeur12.jpg> 	
+	
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E9zGlC4qLNXfFT9rWDMMSr5dqA%2BmUJM_tu79WyWoMxWGowo6PM5ApK9i5jfKClDo8r6okOX6EfxSRvK7sW4sd2IPMA> 	 HISTOIRE D’OR BOOSTE <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E9zGlC4qLNXfFT9rWDMMSr5dqA%2BmUJM_tu79WyWoMxWGowo6PM5ApK9i5jfKClDo8r6okOX6EfxSRvK7sW4sd2IPMA> 
+LA REPRISE D’OR(3) <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E9zGlC4qLNXfFT9rWDMMSr5dqA%2BmUJM_tu79WyWoMxWGowo6PM5ApK9i5jfKClDo8r6okOX6EfxSRvK7sW4sd2IPMA> 	 EN SAVOIR + <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E9zGlC4qLNXfFT9rWDMMSr5dqA%2BmUJM_tu79WyWoMxWGowo6PM5ApK9i5jfKClDo8r6okOX6EfxSRvK7sW4sd2IPMA> 	 
+	
+	
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E8pb8rsach_SYyQZs16lb5CHWhNagclgqEji82T8U5W5UxDE5Edats3n9uidIUznGfrZ1pRzwtOLwm%2Bo4RQDKjnaUD> 	 
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E8pb8rsach_SYyQZs16lb5CHWhNagclgqEji82T8U5W5UxDE5Edats3n9uidIUznGfrZ1pRzwtOLwm%2Bo4RQDKjnaUD> 	 
+Partagez vos plus belles histoires en bijoux avec le #MonHistoiredor <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E8pb8rsach_SYyQZs16lb5CHWhNagclgqEji82T8U5W5UxDE5Edats3n9uidIUznGfrZ1pRzwtOLwm%2Bo4RQDKjnaUD> 	 
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E8pb8rsach_SYyQZs16lb5CHWhNagclgqEji82T8U5W5UxDE5Edats3n9uidIUznGfrZ1pRzwtOLwm%2Bo4RQDKjnaUD> 	 
+INSPIREZ-VOUS SUR @HISTOIREDOR <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E8pb8rsach_SYyQZs16lb5CHWhNagclgqEji82T8U5W5UxDE5Edats3n9uidIUznGfrZ1pRzwtOLwm%2Bo4RQDKjnaUD> 	 
+	
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E_3N4MHRv%2BXbcu3TxBm7fQrTISrRs48NRAe7SH4EUJtUowlwDbOJNj1kaqpfD%2BwQD9SzctwFxoNtqpKKU4gINvIUUF> 	 
+	
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E%2BIkFrIXR4Mag3zVJHXOBaru4X7DM2XSFK0E6WOvGx%2Baow47W3_Szx9B6ayIesCC8e1oJRUhiI6t2YLkKBjbGK_Hwm> 	 
+ 	 JE COMMANDE <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E%2BIkFrIXR4Mag3zVJHXOBaru4X7DM2XSFK0E6WOvGx%2Baow47W3_Szx9B6ayIesCC8e1oJRUhiI6t2YLkKBjbGK_Hwm> 	  	 
+ 	 
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E7cz0pefBnqmg%2BytZ6%2BDfIxjT1mm%2BZt9LjG3QKryBZYqUwC%2Bpub_OsFeukQUPNcyNTZc_lFeUbdOtwMeCTQyZNuW2G> 	 
+ 	 J'Y VAIS ! <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E7cz0pefBnqmg%2BytZ6%2BDfIxjT1mm%2BZt9LjG3QKryBZYqUwC%2Bpub_OsFeukQUPNcyNTZc_lFeUbdOtwMeCTQyZNuW2G> 	  	 
+ 	 
+ 	 
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E9B1lhnG32N3OPRkqaMA3dLh5EAuHF2GOSJuuF_28jH8owIVqiu_OCH37xQgg4fCb6IPGmW7EKr_2OkEbj22rp0iw9> 	  <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E%2Bk78Vv1a%2B6oZ9NZMALAcJIDnu3qrxiRf9NaxiTeVnlxox3gErml21P89VplPpc2E%2BGqoLb0HQLHwXk1HVaFpduiUV> 	 
+ <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E4WI4mXW0htAyOH9%2BkrrlXMkDY74ImWOn6P2JYzhzEuoowQjA7fOPZo7AE2BMqW49Yqbt5xPMap5BuQvKtfCbYYuoZ> 	  <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E8ZSOYj3hJg3AdutsojIzYB7cH5DATzFRpk_a%2BpSPLl6owpYcBULOUiw5ciIqDcpmrSNINpHiSKmgmlmUJ0oOa6j_S> 	 
+ 	 
+ 
+* Pour toute commande passée en Colissimo jusqu’au 12/02/20 midi. 	
+
+(2) Offre valable à partir du 4 février 2020 sur l'achat de bijoux en magasin et sur Histoiredor.com, hors horlogerie et SAV. Dans la limite des stocks disponibles. Non cumulable avec toute offre promotionnelle en cours.
+
+(3) Prix sur estimation, en fonction du cours de l'or applicable signalé en magasin. Sous réserve de l'application des dispositions des articles L 224-96 et suivants du code de la consommation. Paiement par virement bancaire ou bon d'achat. Voir conditions en magasin.
+
+Histoire d'Or respecte votre vie privée. Si vous avez reçu ce message, c'est parce que vous nous avez communiqué votre adresse email et que vous avez accepté de recevoir une newsletter de la part de Histoire d'Or. Histoire d’Or est une enseigne du groupe THOM. Le groupe THOM dispose de moyens informatiques à des fins de prospection commerciales diverses. Les informations enregistrées sont réservées à l’usage du (ou des) service(s) concerné(s) et peuvent être communiquées à l’ensemble des enseignes du groupe THOM.
+
+En application de la loi ""informatique et libertés"" du 06/01/1978 et du Règlement Européen à la Protection des
+données n°2016/679 du 27 avril 2017, vous disposez d'un droit d'accès, de rectification et d'opposition sur les
+données vous concernant qui peut s'exercer par courrier à l'adresse suivante : Histoire d'Or - Service clients –
+55 rue d’Amsterdam - 75008 Paris ou par email à l’adresse suivante : sc@thomeurope.com <mailto:sc@thomeurope.com> .
+
+Le traitement des données à caractère personnel a les finalités suivantes : mener des analyses sur le comportement de nos clients en général, mener des actions promotionnelles et vous envoyer des informations transactionnelles dans le cadre de commandes en ligne. Le responsable du traitement de données à caractère personnel est le groupe THOM - Service clients - 55 rue d'Amsterdam - 75008 Paris.
+
+Pour ne plus recevoir d’e-mail de la part d’Histoire d’Or, cliquez ici <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E7YGlfVGJkpwitqHrzhz0z6ihVwuOVANqvrltJrdsHECoxncNkrI67LV3yY3MVeWV4A7%2B5eqQramn2nMIK1KQmfPgY> .
+
+Vous pouvez retrouver toutes les informations relatives au traitement des données personnelles sur notre site <https://enews.histoiredor.com/optiext/optiextension.dll?ID=E89E6gmZeILWm8NPsHjJLBkCnFGN8z8AuP9uIkwL_j_FQJyoxeupsLbvvrXa6Ki9Djk8I8%2BFFJalLrSTENEGZYTvWYfES> .
+
+
+ 	 
+","Histoire d'Or","info@enews.histoiredor.com","SMTP","baptisteguichard@icloud.com","baptisteguichard@icloud.com","SMTP"
+"[nf21] Vérifiez que vous êtes bien dans le bon groupe","bonjour
+
+Pour finaliser la notation par les pairs je vous invite à vérifier sur teams que vous êtes dans la bonne lite pour votre équipe projet. S'il y a une erreur merci de me signaler d'ici demain jeudi soir au plus tard:
+
+Liste_pour_Notation_par_les_pairs.xlsx <https://uttroyes.sharepoint.com/:x:/s/A22NF21ConceptiondeprojetDatapourlinnovation/Ec0swElLd9pEtF9ANqsqHnsBLuZ2pdgLPFHeyZ_zngvPHg?e=mf8Lvj>  
+
+
+cordialement
+Babiga
+
+ _________________________________________
+Babiga BIRREGAH
+
+Enseignant-Chercheur / Assistant Professor
+
+Gouvernance, Valorisation de données & Big Data
+
+Unité de Recherche LIST3N (Laboratoire Informatique et Société Numérique)
+
+
+Animateur de l'Axe Traitement de Données
+
+Responsable du Labcom-DiTeX (UTT-IFTH)
+
+Responsable parcours international IA et Smart-Tech ( Master Ingénierie des Systèmes Complexes)
+
+
+Equipe M2S (Modélisation et Sûreté des Systèmes <http://lm2s.utt.fr/fr/index.html> )
+
+Recherche: liste de publications <https://scholar.google.fr/citations?user=qHEWWZ8AAAAJ&hl=fr> 
+
+
+Enseignements: Informatique <https://www.utt.fr/formations/diplome-d-ingenieur/informatique-et-systemes-d-information/> , Génie industriel <https://www.utt.fr/formations/diplome-d-ingenieur/genie-industriel/genie-industriel-6837.kjsp>  et Génie Mécanique <https://www.utt.fr/formations/diplome-d-ingenieur/genie-mecanique/genie-mecanique-6858.kjsp> 
+
+
+Profil LinkedIn <https://fr.linkedin.com/in/babigabirregah> 
+
 
   <http://www.utt.fr/> 
 
  UTT - Université de Technologie de Troyes
- 12 rue Marie Curie - CS 42060 - 10004 TROYES CEDEX
- Tél. : (33) 03 25 71 76 00
+Bureau H107 
+12 rue Marie Curie - CS 42060 - 10004 TROYES CEDEX
+ Tél. : (+33) 03 25 71 58 69
 
 
   <https://www.facebook.com/UTTroyes/?fref=ts>   <https://twitter.com/UTTroyes?ref_src=twsrc%5Etfw>   <https://www.instagram.com/uttroyes/>   <https://www.youtube.com/user/ChaineUTT>   <https://www.linkedin.com/company-beta/43495/>    utt.fr <http://www.utt.fr/> 
+","nf21-request@utt.fr","nf21-request@utt.fr","SMTP","nf21","nf21@utt.fr","SMTP"
+"Rappel : Instagram aimerait avoir votre avis"," <https://instagram.co1.qualtrics.com/CP/Graphic.php?IM=IM_063iUXhMWm31Jk1> 
 
 
-",sport-request@utt.fr,sport-request@utt.fr,SMTP,sport,sport@utt.fr,SMTP
-Re: Notes Bac de Français,"Coucou !
+Bonjour baptguuich,
 
-Je comprends ta déception car tu pouvais obtenir bien plus ! Mais cela reste un bac honnnnnnorable donc tu peux être content et fier de toi quand même !
+Instagram utilise les commentaires de personnes comme vous pour améliorer l'app. Cette enquête ne devrait pas vous prendre plus de 5 minutes et nous aidera à améliorer Instagram pour vous et la communauté.
 
-Gros bisous et amuse-toi bien pendant ces vacances !
+Vos informations ne seront utilisées qu'aux seules fins de l'étude. Nous ne partagerons aucun information permettant de vous identifier personnellement avec quiconque en dehors d'Instagram. Pour en savoir plus, consultez notre Politique d'utilisation des données <https://www.facebook.com/about/privacy/> .
 
-Le 19 juillet 2017 à 11:02, Baptiste Guichard <baptisteguichard@icloud.com <mailto:baptisteguichard@icloud.com> > a écrit :
+Merci,
+L'équipe de recherche Instagram
 
-
-	Coucou Corine,
-	Désolé de ne pas t'avoir donner mes notes avant Mais j'étais en colo et j'ai pas vraiment eu le temps, Mais voila alors j'ai eu 11 à l'écrit et 13 à l'oral. Je suis un peu déçu Mais Bon Merci parce que sans toi je sais pas combien j'aurai eu à l'oral 😂
-	
-	Envoyé de mon iPhone
-
-
-",dub co,cookiegroovie@gmail.com,SMTP,Baptiste Guichard,baptisteguichard@icloud.com,SMTP
-anglais,"
-
-
-
-
-
-Envoyé à partir d’Outlook <http://aka.ms/weboutlook> 
-
-
-",Karin Beurton,kbeurton@hotmail.fr,SMTP,baptisteguichard@icloud.com,baptisteguichard@icloud.com,SMTP
-Re : Changement de classe,"Baptiste,
-
-Après étude de votre mail, nous sommes dans l'impossibilité d'accéder favorablement à votre demande.
-Vous êtes donc maintenu en TS5.
-
-Cordialement.
-
--- 
-Delphine FAURIE
- Conseillère Principale d'Education
-
- LYCÉE JEANNE D'ALBRET
- 6 rue Giraud Teulon
- 78100 SAINT-GERMAIN-EN-LAYE
-Accueil : 01-39-04-15-49
-Direct : 01-39-04-15-41
-Email : delphine.faurie@ac-versailles.fr
-",Faurie Delphine,Delphine.Faurie@ac-versailles.fr,SMTP,Baptiste Guichard,baptisteguichard@icloud.com,SMTP
-BIENVENUE SUR JUNKYARD !,"View in browser 	
-	
- <https://mandrillapp.com/track/click/4576601/www.junkyard.com?p=eyJzIjoiQkVZUV9sUEpCcWlWNDlfQk1jMmNiU3ViYnNVIiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmp1bmt5YXJkLmNvbVwiLFwiaWRcIjpcIjE5YWUzZmFhYmNkMzRiOTk5ZjBjZWJiMmI1MmUxZjMxXCIsXCJ1cmxfaWRzXCI6W1wiMmQ2OTY5Yzk5OWM3NjFkNWIzZjYzNzAyZmE0ZGMyYjUyZjIxNzQ5MVwiXX0ifQ> 	
-	
 ________________________________
 
+Accéder à l'enquête <https://instagram.qualtrics.com/jfe/form/SV_7U4zNRlXWxll3WR?Q_DL=4MIvt9xglDhRDTv_7U4zNRlXWxll3WR_MLRP_a64Hzc9QLfg0xLf&Q_CHL=email>  
+Politique d'utilisation des données <https://www.facebook.com/about/privacy/>  
 
-BIENVENUE SUR JUNKYARD !
+Ou copiez et collez l'URL ci-dessous dans votre navigateur Internet : https://instagram.qualtrics.com/jfe/form/SV_7U4zNRlXWxll3WR?Q_DL=4MIvt9xglDhRDTv_7U4zNRlXWxll3WR_MLRP_a64Hzc9QLfg0xLf&Q_CHL=email
 
-
-Pour contrôler le statut de ta commande ou effectuer un échange/retour en ligne, connecte-toi.
-
-Saisis les données suivantes pour te connecter :
-
-Adresse e-mail : baptisteguichard@icloud.com
-
-Mot de passe : Le mot de passe sélectionné (pas valide si tu es connecté(e) avec Facebook)
-
-Si tu n'as pas de mot de passe, clique sur ce lien.
-
-https://www.junkyard.fr/customer/account/resetpassword/?r=1&id=1240620&token=e5406545d6dbf4e695fcf0edfd8e5a90 <https://mandrillapp.com/track/click/4576601/www.junkyard.fr?p=eyJzIjoiWXpoNVpWQkFxaU5HQl9PVnhTYlQ3WF96ejg0IiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmp1bmt5YXJkLmZyXFxcL2N1c3RvbWVyXFxcL2FjY291bnRcXFwvcmVzZXRwYXNzd29yZFxcXC8_cj0xJmlkPTEyNDA2MjAmdG9rZW49ZTU0MDY1NDVkNmRiZjRlNjk1ZmNmMGVkZmQ4ZTVhOTBcIixcImlkXCI6XCIxOWFlM2ZhYWJjZDM0Yjk5OWYwY2ViYjJiNTJlMWYzMVwiLFwidXJsX2lkc1wiOltcIjYxNWRlNjdkY2RlZWRmMDk2ODg5NTU2YzY4YjQ0ZTkzNDg3NGQ4YjVcIl19In0> 
-
-Connecte-toi et profite des offres exclusives, des concours et autres événements. Si tu as des questions, des remarques ou souhaites simplement nous dire bonjour, n'hésite pas à nous contacter !
-
-Cordialement,
-
-L'équipe Junkyard
-
-	
 ________________________________
 
-NOUVEAUTÉS <https://mandrillapp.com/track/click/4576601/www.junkyard.fr?p=eyJzIjoiTVVtRDhHTTBiZldtaXhKVUV4MG4yZklNMUFJIiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmp1bmt5YXJkLmZyXFxcL3Byb2R1Y3RzP2RlcGFydG1lbnQ9MTE3OCZpc19vbl9zYWxlPTAmb3JkZXI9cG9zaXRpb24mZGlyPWFzY1wiLFwiaWRcIjpcIjE5YWUzZmFhYmNkMzRiOTk5ZjBjZWJiMmI1MmUxZjMxXCIsXCJ1cmxfaWRzXCI6W1wiODMyZmY5ZWIzZDgyNWQ1OTRhOGQzM2QyODJhMzhhMGZjMWI5MGVlZFwiXX0ifQ>  	
-________________________________
+Nous respectons la nature personnelle des communications par e-mail. Si vous ne voulez pas recevoir d'e-mails de recherche de la part d'Instagram à l'avenir, veuillez vous désabonner ici <https://www.instagram.com/emails/settings/> . Si vous avez des questions ou des doutes, veuillez consulter nos pages d'aide <https://www.facebook.com/help/facebooksurvey>  ou nous écrire à l'adresse research@instagram.com <mailto:research@instagram.com> 
+Facebook, Inc <https://www.facebook.com/> . Attention: Department 415, P.O. Box 10005, Palo Alto, CA 94303
+Ce message a été envoyé à l'adresse suivante : 
 
-MEILLEURES VENTES <https://mandrillapp.com/track/click/4576601/www.junkyard.fr?p=eyJzIjoiY1AtVnZWOWF5RVhDd25XUmxVLXZ3V05sVFh3IiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmp1bmt5YXJkLmZyXFxcL3Byb2R1Y3RzP2RlcGFydG1lbnQ9MTE3OCZpc19vbl9zYWxlPTAmb3JkZXI9YmVzdHNlbGxlciZkaXI9ZGVzY1wiLFwiaWRcIjpcIjE5YWUzZmFhYmNkMzRiOTk5ZjBjZWJiMmI1MmUxZjMxXCIsXCJ1cmxfaWRzXCI6W1wiODMyZmY5ZWIzZDgyNWQ1OTRhOGQzM2QyODJhMzhhMGZjMWI5MGVlZFwiXX0ifQ>  	
-________________________________
+Opt out <https://instagram.qualtrics.com/CP/Register.php?OptOut=true&RID=MLRP_a64Hzc9QLfg0xLf&LID=UR_0q4OzeWKhavjqgB&DID=EMD_4OP8sCUerdeJyE5&BT=aW5zdGFncmFt&_=1> 
 
-PROMOS <https://mandrillapp.com/track/click/4576601/www.junkyard.fr?p=eyJzIjoiUXFpeUIwR3p5UWMweUJvSTZNUFU1Q0VIdTJzIiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmp1bmt5YXJkLmZyXFxcL2NvbGxlY3Rpb25zXFxcL3NhbGU_ZGlyPWFzYyZvcmRlcj1wb3NpdGlvblwiLFwiaWRcIjpcIjE5YWUzZmFhYmNkMzRiOTk5ZjBjZWJiMmI1MmUxZjMxXCIsXCJ1cmxfaWRzXCI6W1wiODhhNDhkMDA4M2NjY2ZlMjk3NzA5ODE5ZjQxN2EwZDAyNTIzYjFhOFwiXX0ifQ>  	
-________________________________
+ <https://instagram.qualtrics.com/WRQualtricsContacts/Watermark.php?UID=UR_0q4OzeWKhavjqgB&EMD=EMD_4OP8sCUerdeJyE5&CGC=MLRP_a64Hzc9QLfg0xLf> 
+","Instagram Research","noreply@qemailserver.com","SMTP","baptisteguichard@icloud.com","baptisteguichard@icloud.com","SMTP"
+"Re: PAIEMENT ET RETRAIT   INFORMATION COMPLEMENTAIRE SUR UN DEBIT CB"," 
 
-MARQUES <https://mandrillapp.com/track/click/4576601/www.junkyard.fr?p=eyJzIjoiWXM1QU5DR3JHem93SmJsOXY5Zno0Q0FHY2VJIiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmp1bmt5YXJkLmZyXFxcL2JyYW5kc1wiLFwiaWRcIjpcIjE5YWUzZmFhYmNkMzRiOTk5ZjBjZWJiMmI1MmUxZjMxXCIsXCJ1cmxfaWRzXCI6W1wiMjRmOGFhNzliZTEyNWNjOTBjZDkwZGMyZTU0MThhNmQ5MjAxZjc1NVwiXX0ifQ>  	
-________________________________
+ 	  	  	 
+ 	  	 
+ <https://www.boursorama-banque.com/> 	 
+ 	 
+ <http://s.brsimg.com/pub/bourso/emailing/elements/separator.jpg> 	
+ 	 
+BOURSORAMA BANQUE	 
+ 	 
+ 	 
+ 	 
+15 mars 2022	 
+Bonjour Baptiste GUICHARD,	 
+ 	 
+ 	 
+
+
+
+Nous faisons suite à votre email du jour concernant vos paiements.
+
+Nous ne trouvons aucune bloquante qui pourrait empêcher votre carte bancaire de fonctionner.
+
+Afin de permettre une analyse, nous vous invitons à nous préciser les informations concernant les opérations refusées :
+
+*	Date ;
+*	Nom du commerçant ;
+*	Montant ;
+*	Type d’opération (paiement, retrait, sans-contact, etc) ;
+*	Message d’erreur rencontré ;
+*	4 derniers chiffres de la carte utilisée.
+
+A réception de ces informations, nous effectuerons une recherche auprès du service concerné afin de trouver ce qui bloque vos paiements.
+
+ 	 
+Nous restons à votre entière disposition pour toutes informations complémentaires.	 
+ 	 
+ 	 
+A bientôt sur votre Espace Client,	 
+ 	 
+ 	 
+Alexandre COUREAU	 
+Conseiller Client	 
+Boursorama Banque	 
+ 	 
+ 	  	 
+ 	 
+ 	 
+ 	  	  <https://bour.so/eliott?scenarioName=EMAIL_FROM_CRM_BLANK_TEMPLATE&productCode=34&macroProcessCode=MP7&themeId=SC_REPLY_MAIL> 	 
+ 	 
+ 	  	  	 
+ 	 B O U R S O R A M A - B A N Q U E . C O M <http://www.boursorama-banque.com/> 	 
+ <http://www.facebook.com/Boursorama-Banque-1741973942734447/> 	 
+ <http://www.youtube.com/user/BOURSORAMABANQUE> 	 
+ 	 
+ 	  	 
+Boursorama, SA au capital de 43 774 464,00 € - RCS Nanterre 351 058 151 - TVA 69 351 058 151 -	 
+44 rue Traversière - CS 80134 - 92772 Boulogne Billancourt Cedex	 
+ 	 
+
+
+
+-----Message d''origine----- 
+
+De: baptisteguichard@icloud.com 
+Envoyé: 15/03/2022 
+Objet: PAIEMENT ET RETRAIT INFORMATION COMPLEMENTAIRE SUR UN DEBIT CB 
+
+CARTE BANCAIRE # PAIEMENT ET RETRAIT # INFORMATION COMPLÉMENTAIRE SUR UN DÉBIT CB [28830721]
+
+M. GUICHARD Baptiste
+Message: 
+Bonjour, je vous contacte au sujet de ma carte bancaire. J'avais déjà déclaré un voyage en Corée du Sud il y a quelques semaines, et il avait été bien pris en compte. En revanche, ma CB ne semble plus fonctionner pour les paiements, alors qu'elle fonctionnait quelques jours avant, sans pour autant que mon plafond soit atteint. Pouvez-vous vérifier qu'elle ne soit pas bloquée, ou bien m'indiquer qu'elle est la raison de ce dysfonctionnement svp. Bien cordialement, Baptiste Guichard.
+","Boursorama Banque","noreply@boursorama.fr","SMTP","baptisteguichard@icloud.com","baptisteguichard@icloud.com","SMTP"
+"RDV confirmé le jeudi 03 novembre 2022 à 16h30","			
+	 <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:ce0fcYaTtk6V92y0MCQ8RA:3HUyd0BKG0FmEERAVZGAzfq_2EjWYm27rcr9Oeof9Li-YhxAwdPyO5Fmo8aR--xkcrlAsptbZJiRn0oiYNmuDC5CdM2zWyRy1-0TtzxNOrX9Wc8ajOYXHE0jBOAT36YvEkATfGGqlj46sSqXPTMVKA:FjgpGZnAecaYOEkWmmUEajBFF-dr-9_wCaR-34o9sd4> 	RDV confirmé	 <https://www.doctolib.fr/email_layout/icon-header-confirm.png> 	
+Votre rendez-vous	
+ <https://www.doctolib.fr/email_layout/calendar-now.png> 	Jeudi 03 novembre à 16h30	
+VOIR LES DÉTAILS DU RDV <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:yLitTI1-0Ag8zoroV6YamA:NSVCYwFt_2q7zGCgGWqGCbTfZCOfvv5OiZ7dsbxN_LZISZf1fvbzW5IiJiEKjPDCi13OV4gTdxiiL1bXjW3_hyoFLhWCqW0JYuPkSvT12xNPdSoNzfFPjxSAIN5J_6WuVKROiHcJHeH7Fw-i_5J6NtBVvGZWPFdvhWb-qC6Sf7563Tacqg77vAaC597WMJRa485HIwkCkBuNPP1wBtoFBc0d6lSK-89I3T_Bm3Qyek2-27OtW7ODjfA3oggUnA7YKJfEA8lcW4CEZImr7uhSBg:jA2__UFMNVTNdMfi9evOaCUkT9xZ4v96yjFf7BPl0cI> 	
+<https://fm.doctolib.fr/link?id=yKkgTKSf2kI:oA-qw_vJHRUquJYcCl2Qyw:X9b8uAlqjigFqY9t02n1BnB617weN-Du_roOw2375V3YwjNAYhmmRN7AuG_rzPKnWFNu8CVM_HiMNGH81c1_Wir17rWQMSOwaB0TFx7o_w8l5oP4oICTd0i2wet8yOB5L-GVHXbYMeBxJ_pHapwoo1wK7KpQZoNXqzuu57cDmCi__QgUj0AQ-ey-lhI_s43oVheG4u47gB7bmgMY5lwqWLaKj_Cuz2qxD4iqKAwpHkvTdV59juFUjyo6InKWbvF1YR6DfQ8z_YtUUo8bxJJliA:qnd0fg886V_BD7cx-5A6V0feGjgkR9pLMsdgkb2xgZc> 
+ <https://www.doctolib.fr/email_layout/reschedule.png> 	déplacer	
+<https://fm.doctolib.fr/link?id=yKkgTKSf2kI:AjgZMQ-GPn-zKu6FqLccqg:Q27IOe-xAzlZRwnIX9sx_3XM2jXR2Wmd33A0oIrzEEwEtqzGL6eldcKU33dQnzpDQUNttyrYz_icVmXJ3vzzFLIT0eJh1s1ZdC2vdJ4nJSLnAu4Y348g8PMPyRRKYPqnbhINULAKndMNm5XM9Z8wErEDw_kPIN0j4t6mznEhjqUE19GgYisixd49VvIOpi0NrRRoaZyVUKxiFGrkSS-aisTUniKoAEUBjTQhLDqMjB8I_uSn_K_sHZy45CSm4Ag0apKhxT3CUsChafSImbmVZg:OQgm843-Voeg2lSEp0I2OYMvDMMNvfBrwH0SEGrNM3o> 
+ <https://www.doctolib.fr/email_layout/close.png> 	annuler	
+ <https://www.doctolib.fr/email_layout/no-medical-info.png> 	Afin d'améliorer la sécurité de vos données, nous n'affichons plus le détail de vos rendez-vous dans nos messages.	
+	
+Votre rendez-vous est confirmé. En cas d'imprévu, pensez à le déplacer ou l'annuler le plus tôt possible.	 <https://www.doctolib.fr/email_layout/practitioners.png> 	
+Partagez des documents	
+Vous pouvez envoyer des documents à votre praticien pour bien préparer votre consultation.
+
+ <https://www.doctolib.fr/email_layout/upload_document.png> 	Lettre d’adressage, compte rendu, résultats d’analyse, ordonnances...	
+
+PARTAGER DES DOCUMENTS <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:ECMxjGMknTLnipFAah7dVQ:WCn39TY5Nsbs2HiotFKYWJMZGawyYU9QPzv1cZ8SymBSAPFQkAhz5d4IQB2q9Cbj2OB3-rkCyJC4uHfUmkA_i6TKaLEnuD6HMfb5DoKvEXfhaA_UBEmT4YFrXk61u5JneTG-IwroCzGFBl_hUFlSkdlNexXgvznJ3bkyrbFHzhBJPBk3irYPeJHzWwdPzKsQeBcSoF6SLGPI6lSVGahFW9FliIRq6T-jsLBOs2nxJ1ONuVMVi2UxnTFmEyyPljrFpgmIIHQ0b1IY5IUnVt6CnecNtWUkiFVC9m1aO7YIRlwQ43Qy2MnAQNEzoniHtoYe:qQ_7UNC1hkcggJF_Z_zVW6Z5Yha16gnkH1lva2m-jrE> 	
+
+ <https://www.doctolib.fr/email_layout/file-certificate.png> 	Partagez vos documents dès maintenant pour ne plus avoir à y penser.	
+ <https://www.doctolib.fr/email_layout/lock-closed.png> 	Vos documents sont chiffrés de bout en bout et accessibles depuis votre compte Doctolib.	
+Documents à télécharger	
+Accédez aux documents de votre rendez-vous depuis votre compte Doctolib.
+
+ACCÉDER À MES DOCUMENTS <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:Amjojez7qslL5ASoLgP-nQ:PshuGow7GWJnZjZ-YESZcI1qzQcxoBg1ey2ORGshjXBJxHsLwdvzjh5sbyaaE_Lez4p4pA2sfkb8S9LjeqX2GbEl8-8_PKUdWvk-ilHXpAciU_uGhXaq1mxL4a5DSjsAvI3TQkgJ-Ok26JkzOSRNiB6otrn8fjpl-2cqqG9p4F9ULy9Y9WWg96usIJ68VRmo_hxsl3SSHkrbTIdjVwD67U-6eeL5pMg5UnAODyj81xSPjPHzKQK3R2mImGf66onq1vR2wQ5Qb50jUBGIPFWY6x_ibdQN0M1fEAZcb2uEg_fRW5GR-gM1bTRGxdY1lAQE:wTUoEZ5UvdbNVR44jUPqHjFjtOuLhwgxzUR0IoWws4Q> 	
+Moyens de paiement et remboursement	
+
+ <https://www.doctolib.fr/email_layout/icon-chip-check.png> 	Chèques	
+ <https://www.doctolib.fr/email_layout/icon-chip-check.png> 	Espèces	
+ <https://www.doctolib.fr/email_layout/icon-chip-check.png> 	Carte Bancaire	
+
+Merci de vous munir de votre carte Vitale à jour et, si besoin, de votre carte de mutuelle ou de votre attestation de droits à jour. 	
+Le praticien pratique le tiers-payant pour la partie sécurité sociale.	
+Mon compte	
+Accédez à votre compte, gérez vos rendez-vous et vos proches.
+
+MON COMPTE <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:TgEbdgA6--aylIT-uW4GqA:qg5CE2Uo3DKjrFUAmsHsSPl90By33LyRrl69EM8ds5Q8NnWKlei6CcJ5AGxeUq0TGrZYwM3wvFR_KDYUCy5YfPsHTFCSGPdaP59NZ10BX2st_W3NzalcJtEvkjkMmRB_bCQkPQpnXYka6JKTvnmkGjewRz6_kVjg_9sxzNTDEi406wimDtfaw-YkVyaLgHN5mXX7H7frqsSEoZU4XLFRzFHtF0_QCOwdXMQ5kRHBRwhZ9aEq1k6aEI8hMxb1iU0d:8TqOkYreYkkUBS3hlYpwkGYzvsd9TjleUbTvCGIH7bo> 	
+Votre santé. Vos données.	
+La confidentialité de vos données est une priorité pour Doctolib.
+
+DÉCOUVRIR NOS ENGAGEMENTS <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:sZp6VjJfVZ29kxwKrCP0JA:fhvfIktJzUaMklaPG4mA9J2hfm5O1d36GHKfC2zTHFgW_QxLxzIQ2EnVFf58G9lM6bXjIFWzlWBw7X7WvPPWQCUEmFHwO__8pDc6wUlDaEeiE_VgddeU4Cd75MZVOLtMyVGwQYxddjkJY7Ymtmw0icBWCAr_zKsQh2fpY6tJ080:gWMUr47LaJR7_9J6X0jWHz2A9_eaaQ6Y3KDWmC1gnug> 	
+ <https://www.doctolib.fr/email_layout/medical-folders-handoff.png> 
+
+Seuls vous et vos praticiens y avez accès
+
+ <https://www.doctolib.fr/email_layout/medical-folders-display.png> 
+
+Leur raison d’être : vous aider à mieux gérer votre santé
+
+ <https://www.doctolib.fr/email_layout/medical-folders-safe.png> 
+
+Des technologies de pointe pour assurer leur sécurité
 
 	
- <https://mandrillapp.com/track/click/4576601/instagram.com?p=eyJzIjoiWVlXNEx3aXBNMFFTOTZaY2hqSGNIQmd4N184IiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHA6XFxcL1xcXC9pbnN0YWdyYW0uY29tXFxcL2p1bmt5YXJkY29tXCIsXCJpZFwiOlwiMTlhZTNmYWFiY2QzNGI5OTlmMGNlYmIyYjUyZTFmMzFcIixcInVybF9pZHNcIjpbXCI1MTY3NzFlMDQ0NWI5NzNmODcwY2ZhN2U0MWM2N2IyNzAxNmM3OThmXCJdfSJ9>  	
- <https://mandrillapp.com/track/click/4576601/www.facebook.com?p=eyJzIjoiVnQwS1N4N0FKd3ZLaEFYaVNmem1mT3VmdkM0IiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmZhY2Vib29rLmNvbVxcXC9qdW5reWFyZFwiLFwiaWRcIjpcIjE5YWUzZmFhYmNkMzRiOTk5ZjBjZWJiMmI1MmUxZjMxXCIsXCJ1cmxfaWRzXCI6W1wiZTQxZWFkNzk0ZjliMmRiYjdkMjU1ZDJhNTU0OWQzYWIxMDZiYzdmNFwiXX0ifQ>  	
- <https://mandrillapp.com/track/click/4576601/junkyardarchive.tumblr.com?p=eyJzIjoibkFWOTBJU0pxdjZBcVJ6ZkZqVHVWeGY0eTlzIiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHA6XFxcL1xcXC9qdW5reWFyZGFyY2hpdmUudHVtYmxyLmNvbVxcXC9cIixcImlkXCI6XCIxOWFlM2ZhYWJjZDM0Yjk5OWYwY2ViYjJiNTJlMWYzMVwiLFwidXJsX2lkc1wiOltcImE3ZTJiZThlMzlhODVmOGU2MWUxMDBiNTEzODA3N2NkNzc2NWYxODZcIl19In0>  	
- <https://mandrillapp.com/track/click/4576601/www.snapchat.com?p=eyJzIjoiWjd2dXBLeVB0WEEtUVo4R2R1M2xobFJFZEpzIiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNuYXBjaGF0LmNvbVxcXC9hZGRcXFwvanVua3lhcmRjb21cIixcImlkXCI6XCIxOWFlM2ZhYWJjZDM0Yjk5OWYwY2ViYjJiNTJlMWYzMVwiLFwidXJsX2lkc1wiOltcImEzNTZhMWQ0YTI0NGRiZDI4Y2Q1ZDEwYThkNjMwNDlmZTBhNGQ1NmZcIl19In0>  	
+			
+	Découvrez l’application mobile Doctolib	
+Pour accéder à vos praticiens à tout moment, où que vous soyez.	
+ <https://www.doctolib.fr/email_layout/star-icon.png>  <https://www.doctolib.fr/email_layout/star-icon.png>  <https://www.doctolib.fr/email_layout/star-icon.png>  <https://www.doctolib.fr/email_layout/star-icon.png>  <https://www.doctolib.fr/email_layout/star-icon.png> 4.9 ★ sur les stores
+ <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:UZbNjLyBhVXYTjKVrzk_6g:zY-6nQ5SAkMa4czgs5DQ4qD_4yEN4IK8rB4mJcfShwOqiBO2vTDUi3lmCd7RPzy4KBTe88oL1mHjry6I1qUOoWj355XJfJstGU5-0_oINNAsUIaj1fbt_Hc5nxzFYFZ_vvgkZdtrhxlZNyDYDtCVjZSbnjUUrz81sRusb7Cn__B905z2nk1-hP90uCh3CJVC4eiZRsoni8tCosdRaFn0woy11g0xrL3nSr7ojozAdXKbe620fv4AA6znJFmbc_D2:xJfxCZI6E5oVPwZd6Ci32Ekj21xO0MYuQys6RgVcjiI> 	 <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:fJR6tw5haqMhT8hF9_LOxQ:Gv7_vCkNqwQ9sW62ajI90XIofF9nWW0j4FfVRCs20OIONNXviqLnc59g3fbkxGTcG_45n2razVhWhM6fUM8RnLX0DzoBSwHiPkuVWrEu-Ln5F4mCUEv3Lf3YFTML30IJAlRybreq6muy53AGCaNFAPNQaIxxAJj1IZxD9X-or5CCnalbmhlo69Drmjy2QlZuQH3YO1ZoY_S2xmU0E1gPYTU1Y3magnAMKCRcJhM3UTy4ZZpOjBkC4NDTknipbxqoa14X4jz9LMPHfy_mRopZpQ:MwSgwUIqrCxXtc2SVd6N8QMHB3myiXyh3a12IcP6Uxs> 	
+ <https://www.doctolib.fr/email_layout/app-marketing.png> 	
+			
+	 <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:pO-wRcdlfZd8b4tUk9fT4A:7oGNyIZoh34LEwENSS4u-CarsrQ5u_hsZutpm9xB3a1vt11AW16yDON7Pl6-OhkAHjqzEDzaZ1CtxB5GmiaHqaDRZxXxXTIcpxgJAY_pZHvylweIpRPT0Ttt36rFO5T0eJTaQQl18-SiuD633ay9cw:2Rh0VR7uGPYxRBEMufiHNpfcBPzCMomVxX_Akw8EMdA> 		 <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:UWSWiFzhOqUFKhCi3m00Tg:YRO64ae3J58w7RFmR-QAE_3KN8auJyOFt3TgBf7krnTaIhoznUQ-WzNBvxGQ4DIqgwHgrya7U70aoNKzMwg2-VGiX5NPGzhT8L12xJr1llhCwDJ6GhGiZS_JlMTN9pMXHgNOcBj8KFF87aRx4tlNQQ:cfovmibBoak8qIBy_tzsop2KRv5CIiVq_OgGIApcR0A> 		 <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:7rRIEWBSdESfhyN_SGSAwQ:GwrxsdhE0K1V4VSmVl-nPniC6_IL_pWBGjalw3G1JmA80moln0pJeWqkeNsn6dR90moVjnsf4r3VjfZwkE2BLyDXgkljTrOxQ5MY2I_KiI0mHTn2SLzYuM7QlNCLSolLEMU2rvKxhEbbPaT0cQYzEF0ALEKEYDY4dSkK_FHhxcA:crZbNuRYyNaZoJwJX0r9lnH02IdQ4lvs6rzTHNXrLWs> 		 <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:8LXJ6wi6xIxlpCgsWo1yGQ:swNRCkxmv6737MvoAkMFLOg2fy3PSD1zYlbDuLUsd1f2xo4HUFD3v04yLZktoQyDxmNzjS_t0PzUTIM1v2HD8xsTVOwvQB9300IIAuLIrMZWyMe-Ymc1nKXd-SQPWGOGiNn_RvDJLKsGKxC8a_K4Tg:GzZfRoNWATJ8Q43aNErrL4aIfsKRVfVAAt6gvN3fbt4> 	
 	
-MON COMPTE <https://mandrillapp.com/track/click/4576601/www.junkyard.fr?p=eyJzIjoiR05qb0puSGctQTFKaEtIQzFobE5EVzR0XzFnIiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmp1bmt5YXJkLmZyXFxcL2N1c3RvbWVyXFxcL2FjY291bnRcXFwvXCIsXCJpZFwiOlwiMTlhZTNmYWFiY2QzNGI5OTlmMGNlYmIyYjUyZTFmMzFcIixcInVybF9pZHNcIjpbXCI3ODY3ZjNjODJlNWNiMzllN2VlNzRjZDNlMjc0ODVmZThlMTRkM2Y3XCJdfSJ9>  - CONDITIONS DE VENTE <https://mandrillapp.com/track/click/4576601/www.junkyard.fr?p=eyJzIjoiTGhkUU9wQ3pfX0sxWk1YclFYMFRJckYxcWJZIiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmp1bmt5YXJkLmZyXFxcL2N1c3RvbWVyLXNlcnZpY2Ujc2VjdGlvbjJcIixcImlkXCI6XCIxOWFlM2ZhYWJjZDM0Yjk5OWYwY2ViYjJiNTJlMWYzMVwiLFwidXJsX2lkc1wiOltcImZkNTM5NDMzODA3MDhjZmVjNjAwODRmNjlhYWFiYjdjNzFhMmQwMWVcIl19In0>  - NOUS CONTACTER <https://mandrillapp.com/track/click/4576601/www.junkyard.fr?p=eyJzIjoiTUkwUTF0c0puV1JhZl9CU0hQeF80T1EzV1hVIiwidiI6MSwicCI6IntcInVcIjo0NTc2NjAxLFwidlwiOjEsXCJ1cmxcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmp1bmt5YXJkLmZyXFxcL2N1c3RvbWVyLXNlcnZpY2Ujc2VjdGlvbjNcIixcImlkXCI6XCIxOWFlM2ZhYWJjZDM0Yjk5OWYwY2ViYjJiNTJlMWYzMVwiLFwidXJsX2lkc1wiOltcImZkNTM5NDMzODA3MDhjZmVjNjAwODRmNjlhYWFiYjdjNzFhMmQwMWVcIl19In0>  	
-Copyright © 2017 *|LIST:COMPANY|*
-→  Unsbscribe  ←
-This email can not be replied. Send questions to: info@junkyard.fr <mailto:info@junkyard.fr> .
- <https://mandrillapp.com/track/open.php?u=4576601&id=19ae3faabcd34b999f0cebb2b52e1f31> 
-",Junkyard,info@junkyard.se,SMTP,Baptiste Guichard,baptisteguichard@icloud.com,SMTP
-idea of progress,"
-
-
-
-
-
-Envoyé à partir d’Outlook <http://aka.ms/weboutlook> 
-
-
-",Karin Beurton,kbeurton@hotmail.fr,SMTP,baptisteguichard@icloud.com,baptisteguichard@icloud.com,SMTP
-idea of progress,"
-
-
-
-
-
-Envoyé à partir d’Outlook <http://aka.ms/weboutlook> 
-
-
-",Karin Beurton,kbeurton@hotmail.fr,SMTP,baptisteguichard@icloud.com,baptisteguichard@icloud.com,SMTP
-Re: Travail allemand,"Je t’ai rectifié deux petites choses. C’est clair dans son ensemble. Bon courage pour ton oral.
-
-P.S. Je te joins le texte modifié
-
- 
-
-De : Baptiste Guichard <baptisteguichard@icloud.com>
-Date : dimanche 21 janvier 2018 à 20:08
-À : Karin Beurton <kbeurton@hotmail.fr>
-Objet : Travail allemand
-
- 
-
-Salut Karin, désolé s'il est un peu tard mais j'avais un oral d'allemand à faire (5min) sur les voitures éléctriques où je devais développer un aspect particulier dessus. Je voulais savoir si tu pouvais me dire s'il y a des grosses fautes dans ce que j'ai écris.
-
-Merci d'avance et bonne soirée
-
-",Karin Beurton,kbeurton@hotmail.fr,SMTP,Baptiste Guichard,baptisteguichard@icloud.com,SMTP
-Parcoursup : code de validation de l'adresse e-mail,"Bonjour,
-
-Bienvenue sur Parcoursup. Votre numéro de dossier est : 540637 - M. GUICHARD Baptiste
-
-L'adresse électronique que vous avez saisie sur le site Parcoursup est correcte.
-
-Pour valider la saisie de votre adresse e-mail, connectez-vous au site et entrez le code suivant : GKOSAL
-
-Ce code sert UNIQUEMENT à la validation de votre adresse e-mail.
-
-NE PAS UTILISER EN TANT QUE MOT DE PASSE DE CONNEXION A VOTRE DOSSIER ELECTRONIQUE
-
-Ce message a été généré automatiquement, merci de ne pas y répondre.
-",automatique@parcoursup.fr,automatique@parcoursup.fr,SMTP,baptisteguichard@icloud.com,baptisteguichard@icloud.com,SMTP
-Confirmation de la création de votre compte PSG.FR,"
-
-	 <http://billetterie.psg.fr/sites/psg7.ap2s.fr/files/generic_mails/user_register/news_confirmation_inscription_3.jpg> 	
+			
+	CONTACT <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:qgQZC6slR_ZM4Gn5RSc5OQ:X7-DKkLFDGQDxBYt9DESDHoG0D1QDwFcgOaS899jgV6I2jVuW_53cb9ynzWsVNgDmDWy7L-lr3TTQjXASBg1Yr5-KVXXZtTKs6Zx5PCT_CLMc5DEcEuYhUo8XYZo953XYQQHmzScSyqJZ6JLqWrzqnLEyWUtHVCHVRViaN8ahMeKKRM4AcohqhbBK72Zy4OuA0ZgokT97fQYltXBLAR3K3QWOp8McoidiSI263KGvoX5BW-QW9M7UDvdqEoY-JjI:XVNXq_DoIMMyQAO-r_l5fq6PXscKMfLDzW0YY0RRmsU> 	|	À PROPOS	|	AIDE <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:Ps4nzm0BrE0h_Rlq5TwWGw:1JWIV9VlpLe-v8oJLWWFEzbmC4yw1vxDy-xjHMYI_3PY_gFGOY-xpNj9kRC5pll_crttoCA0YM3PuGj5leM7eA4HRr4fqAztZMMeO36A9kLRn1wTNwHgLHyRe-uLSIXba_7clLAcjOlzQFI2HQ5UAzGG4yv2bgPfMfx_xAv9WM20yjGxRRquAngx70PWIoQwrD1-JBrltntK17LAHjgTdcRwwN23RvZGpDGZJ0FPbws:68cLYtlef1xgPjqLe-9YXLtWSbDFfxQ9w470XKKPtUY> 	
 	
-Bonjour BAPTISTE GUICHARD, 
-
-Votre compte est à présent activé.
-
-
-Veuillez trouver ci-dessous vos codes de connexion :
-Votre identifiant : baptisteguichard@icloud.com
-Votre mot de passe : Baptiste1206
-
-
-Ils vous permettront d'accéder à votre espace personnel et télécharger vos e-Tickets. 
-
-
-Le Service Billetterie du Paris Saint-Germain
-
- 
-
- 
+	Copyright • 2022
+Doctolib | 54 quai Charles Pasqua | 92300 Levallois-Perret
+Merci d’ajouter l'adresse no-reply@doctolib.fr à votre carnet d'adresse
 
 	
- <http://billetterie.psg.fr/sites/psg7.ap2s.fr/files/generic_mails/user_register/sans_titre-4_4.jpg> 	
+	Les données personnelles vous concernant sont traitées par Doctolib dans le cadre de votre utilisation des services Doctolib. Pour toute question relative à vos données personnelles, vous pouvez consulter notre politique de protection des données personnelles, ou vous adresser à contact.dataprivacy@doctolib.fr <mailto:contact.dataprivacy@doctolib.fr>  
+Doctolib analyse vos interactions avec cet e-mail à l’aide de traceurs de mesures d’audience. 
+Politique de confidentialité <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:HW_Rz9vv-7m3v3tKchZpnA:JE-52fSEBJcAtt1Jmr6qzng_1UmxsB5ZEjWzU0KAL_XQgwqADJ7a0aCZ1xP4xEstFWghLvArVNYhrHfgbhYFqsFZq932iKYdDqw6rH0nwadLbZtqoSsF_7b33TcY504MerJdOqRDz_w_n9tH-MqhM7G5BgwULZR1nEvZRCoR_Zha4iRksN1E3mC3PpvD4MysZixXtcD5CSslQB1sg2C96pSEmEmIZyKbMUkPrcM5Y-s:r_WAngdcO7Jd3F82zDh0zef3WF3j0hK8OVdPA4RlKW4>  / Nos engagements pour protéger vos données <https://fm.doctolib.fr/link?id=yKkgTKSf2kI:MQgfgQcHV5yskb59Kj6q9Q:jp29EO0QJi6Mj-cD2SACT9XpvQfJFWL79fs2WLxQ4HDEChUWfVOoBqVCRZu5Vz1hh-2vPHQNhZ9WHhM5K4NYDXfM25ayTwRBdZROMKJEO7brmgvP-X-1G-Qy3CmlJT-KeOV4wCriwRBV9x1SabQbjLVhwBbt4v_FukeyeONo44U:xZ2mc2IFaaQkkqfl9l_0GbNfL8hs2L4raeTvGxfgK38>  
+
 	
-",contact@psg.fr,contact@psg.fr,SMTP,baptisteguichard@icloud.com,baptisteguichard@icloud.com,SMTP
-Nouvelle commande sur Billetterie Officielle PARIS SAINT GERMAIN," 	 
- <http://billetterie.psg.fr/sites/psg7.ap2s.fr/themes/psg7/mails/images/NL_PSG_r2_c3.png> 	
-Votre commande :	
- 	 
- 	 
-Cher(e) BAPTISTE GUICHARD, 
-
-
-
-Nous avons bien enregistré votre commande dont le détail figure ci-dessous. Votre commande sera validée une fois son montant prélevé sur votre compte bancaire et sous réserve de respect des Conditions Générales de Vente par vos soins. 
-
-
-
- 	 
- 	 
- 	 
-VOTRE COMMANDE 
-
-N° de commande : 235987 	
- 	 
-	Article(s) Billetterie 	Qté.	 Cat.	 Tarif	 Montant	 	
-	Billet à l'unité - YOUTH LEAGUE - BARCELONA
-U19YL - POULE J2 - 20/02/2018 - 16:00 	1	 CAT1	 Plein Tarif	 10 €	 	
-	Frais d'obtention 	4 €	 	
-Total : 14 €	 	
- 	 
- 	 
- 	 
-Vos coordonnées 	
-Adresse de livraison :
-BAPTISTE GUICHARD
-2 AVENUE MARCEAU
-78600 LE MESNIL LE ROI
-
-N° téléphone de l'expédition :
-0750280595 	
-Adresse de facturation :
-BAPTISTE GUICHARD
-2 AVENUE MARCEAU
-78600 LE MESNIL LE ROI 	
- 	 
- 	 
- 	 
- <http://www.myparissaintgermain.fr/?utm_source=confirmemail&utm_medium=welcomepack&utm_campaign=mypsg> 	
- <http://www.myparissaintgermain.fr/?utm_source=confirmemail&utm_medium=priorityticket&utm_campaign=mypsg> 	
- <http://www.myparissaintgermain.fr/?utm_source=confirmemail&utm_medium=discountsstores&utm_campaign=mypsg> 	
- <http://billetterie.psg.fr/sites/psg7.ap2s.fr/themes/psg7/mails/images/NL_PSG_r20_c1.png> 	PSG.FR	 
-BESOIN D'AIDE ? - CONTACTEZ-NOUS <http://billetterie.psg.fr/contact> 	
-",contact@psg.fr,contact@psg.fr,SMTP,baptisteguichard@icloud.com,baptisteguichard@icloud.com,SMTP
+	 <https://www.doctolib.fr/email_layout/logo-blue.png> 		
+			
+ <https://fm.doctolib.fr/open.gif?id=yKkgTKSf2kI:hHZcQ71VQGyH-8J2D7h6cg:QFpaE12bNKt0BjY8zipw1A0jBL2WOKF9hjL7cGGsP_ed4cQdQ4rNSgizctk9HTLrRSPJ3aAh0fsmYGvJMfNoJAsJkRCVMiIzAbrkuQD0Rc0:plZq2O_cuguPtE6XHlPJhVJABaJOnR-wXDjvZdkPD_I> 
+","Doctolib","no-reply@doctolib.fr","SMTP","baptisteguichard@icloud.com","baptisteguichard@icloud.com","SMTP"
